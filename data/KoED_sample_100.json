@@ -1,0 +1,4463 @@
+[
+    {
+        "conv_id": "hit:477_conv:954",
+        "ko_situation": "한 번은 술을 너무 많이 마셔서 죽을 것 같았어. 토하고 나서야 좀 나아졌어.",
+        "situation": "One time I drank way too much and was so wasted that I thought I was gonna die. I threw up and then felt much better.",
+        "emotion": [
+            "afraid",
+            "embarrassed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "야, 얼마 전에 과음해서 진짜 큰일 날 뻔했어.",
+                "utter": "Man_comma_ one time I got wayyy too drunk and it was not a good time.",
+                "user_id": 55.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "정말? 그날 무슨 일이 있었어?",
+                "utter": "Oh yeah? What happened that day?",
+                "user_id": 170.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "회식하다가 처음으로 폭탄주 마셨거든. 그날 밤새 화장실 들락날락하다가 다음날 아침까지 쓰러져 있었어.",
+                "utter": "It was one of the first times I drank and I felt awful and thought I was basically gonna die.",
+                "user_id": 55.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "헐, 그랬구나. 지금은 괜찮아?",
+                "utter": "Oh no! I hope everything turned out well at the end of it!",
+                "user_id": 170.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:213_conv:426",
+        "ko_situation": "어젯밤, 나는 오토바이를 타고 도로를 돌아다니다가 급하게 방향을 틀다가 거의 넘어질 뻔한 꿈을 꿨어.",
+        "situation": "Last night_comma_ I dreamt that I was riding around the road on a motorcycle_comma_ and at one point almost fell of making a quick sharp turn. ",
+        "emotion": [
+            "afraid",
+            "sad"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "어제 밤에 진짜 리얼한 꿈을 꿨어. 오토바이 타고 돌아다니다가 급하게 방향 틀다 넘어질 뻔했는데, 너무 생생해서 소름 돋았어.",
+                "utter": "Last night_comma_ I had ths crazy realistic dream that I was riding around on a motorcycle. At one point_comma_ I hit a quick sharp turn_comma_ and felt like I nearly had just fell off. It was so realistic and frightening. ",
+                "user_id": 83.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "혹시 요즘 스트레스 많이 받는 일 있어? 잠들기 전에 좀 이완하는 시간 가져보는 건 어때?",
+                "utter": "Maybe something in your life  makes you very stress. You should try to relax before go to sleep.",
+                "user_id": 87.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "오.. 진짜 그럴지도 몰라. 요즘 꿈들이 다 복잡하고 우울해서 슬프더라고. 생활 패턴이 문제인가, 아니면 밤에 너무 긴장하나 봐.",
+                "utter": "Possibly_comma_ my dreams are often very confusing and or lonely. It is very sad. I think I need a lifestyle change_comma_ or am just too stressed at night. ",
+                "user_id": 83.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그러게. 근데 요즘 심리 상담 받는 것도 괜찮대. 그런 거 한번 고려해봐. 부끄러워하지 말고.",
+                "utter": "You konw_comma_ sometimes consulting  a psy is a good investment. Dont be afraid to do that.",
+                "user_id": 87.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아. 나도 그거 생각해봤어. 근데 좀 망설여지더라고.",
+                "user_id": 83.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "에이, 뭐가 망설여. 요즘은 다들 받는다더라. 건강검진 받듯이 마음 검진도 받는 거지.",
+                "user_id": 87.0
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "그렇게 생각하니까 좀 낫네. 고마워, 진짜 한 번 알아볼게.",
+                "user_id": 83.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:808_conv:1616",
+        "ko_situation": "금은방에서 일하다가 강도를 만났어.",
+        "situation": "While working at a restaurant I was robbed",
+        "emotion": [
+            "afraid",
+            "terrified"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "얼마 전에 아르바이트하던 금은방에서 강도를 당했어. 갑자기 들이닥쳐서 정신이 하나도 없었어.",
+                "utter": "While working at a restaurant I was robbed",
+                "user_id": 226.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "정말 놀랐겠다. 다치지는 않은 거지? 혹시 범인이 흉기라도 들고 있었어?",
+                "utter": "Wow_comma_ thats scary. Did they have a gun?",
+                "user_id": 231.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "다행히 눈에 보이는 흉기는 없었어. 그냥 돈만 훔쳐서 도망갔어. 하지만 그 순간이 너무 무서웠어.",
+                "utter": "No weapon that I could see they just grabbed the money and ran.",
+                "user_id": 226.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "많이 놀라고 두려웠겠다. 그래도 네가 다치지 않아서 정말 다행이야. 지금은 마음이 좀 괜찮아?",
+                "utter": "Oh_comma_ the ole snatch and grab. Still must not have been a good feeling.",
+                "user_id": 231.0
+            }
+        ]
+    },
+    
+    {
+        "conv_id": "hit:4_conv:8",
+        "ko_situation": "한 번은 직장을 잃고 화가 났어.",
+        "situation": "I once lost my job and got mad.",
+        "emotion": [
+            "angry",
+            "disappointed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "작년에 회사에서 잘렸어. 진짜 너무 화가 났어.",
+                "utter": "I lost my job last year and got really angry.",
+                "user_id": 4.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "헐, 진짜? 갑자기 그런 일이 있었어?",
+                "utter": "I am sorry to hear that. Did it happen out of the blue?",
+                "user_id": 8.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 갑자기 통보받고 완전 황당했어.",
+                "utter": "Yes_comma_ it was a complete surprise.",
+                "user_id": 4.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아니, 그게 무슨 일이야? 갑자기 회사에서 잘리는 게 말이 돼?",
+                "utter": "I am sorry to hear that. I hope it turned out to be a blessing in decise.",
+                "user_id": 8.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "어휴, 말도 마. 솔직히 아직도 억울해.",
+                "utter": "",
+                "user_id": 4.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "진짜 안타깝다. 그래도 너무 좌절하지 마.",
+                "utter": "",
+                "user_id": 8.0
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "응, 알아. 이제는 오히려 새로운 기회라고 생각하려고. 전화위복이라는 말이 있잖아.",
+                "utter": "",
+                "user_id": 4.0
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "그래, 잘 생각했어. 힘내!",
+                "utter": "",
+                "user_id": 8.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:1909_conv:3818",
+        "ko_situation": "결혼식을 준비할 때 고용하려던 케이터링 업체 직원이 제 아내가 말할 때마다 완전히 무시했어요.",
+        "situation": "When planning my wedding the caterer we were trying to hire was completely ignoring my wife every time she tried to talk to her.",
+        "emotion": [
+            "angry",
+            "annoyed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "결혼식 준비하면서 진짜 어이없는 일 겪었어. 웨딩 사진 찍어주는 스튜디오 알아보는데, 아내가 전화하면 계속 무시하더래.",
+                "user_id": 310,
+                "utter": "I was planning my wedding and trying to get a caterer.  The one we were looking at was completely ignoring every time my wife tried to communicate with them_comma_ to the point where I told them off and went with someone else."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아이고, 그런 일이 있었구나. 진짜 불쾌했겠다. 그래도 다른 업체로 바꾼 건 잘한 것 같아.",
+                "user_id": 119,
+                "utter": "Sounds like you made the right decision.  What a bunch of A-holes"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "맞아. 근데 더 이상한 건, 스튜디오 직원이 여자였는데... 성차별 같은 건 아니었을 텐데, 내가 연락할 때마다 즉각 반응하더라고. 우리나라에서는 이런 문제가 꽤 심각한 것 같아.",
+                "user_id": 310,
+                "utter": "Yeah_comma_ it was weird_comma_ the caterer was a woman so I can't imagine it was like a sexism thing_comma_ but she responded to me almost instantly every time."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "음... 그건 정말 문제가 있는 행동이네. 특히 웨딩 업계에서 이런 일이 많이 일어난다고 들었어. 그래도 너희가 좋은 결정을 내린 것 같아.",
+                "user_id": 119,
+                "utter": "Hm maybe she liked you ha"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그래, 지금 생각해보니 그 업체와 일하지 않기로 한 게 다행인 듯해. 근데 아직도 그 일을 생각하면 화 나.",
+                "user_id": 310
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그 마음 충분히 이해해. 근데 이제 그 일은 지나갔고, 너희는 좋은 선택을 했잖아. 새로 정한 스튜디오는 어때? 괜찮아?",
+                "user_id": 119
+            }
+        ]
+    },
+    
+    {
+        "conv_id": "hit:339_conv:678",
+        "ko_situation": "내 올케는 자기 아들들을 절대 병원에 데려가지 않아. 애들이 정말 아플 때도 절대 데려가지 않더라.",
+        "situation": "My sister in law refuses to ever take her boys to the doctor. There have been times they have been really sick and she just will not take them.",
+        "emotion": [
+            "angry",
+            "sad"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "우리 올케에게 문제가 있어. 자기 애들을 건강검진이나 아플 때도 병원에 데려가지 않더라고.",
+                "utter": "There is something wrong with my sister in law. She refuses to take her kids to the doctor for checkups or even when they are sick.",
+                "user_id": 56.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "부모로서 용납되기 힘든 행동이네.",
+                "utter": "Wow that's pretty bad parenting.",
+                "user_id": 119.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "우리 남편과 나도 그렇게 생각해. 애들이 아기였을 때 39도 열이 나도 병원에 안 데려갔어. 정말 이해가 안 돼. 이제 애들이 다 컸는데도 여전히 신경 안 쓰더라고.",
+                "utter": "That's what my husband and I think. I mean even when they were babies and would run 103 fever_comma_ she wouldn't take them. I just do not understand that at all - they are both grown now but she's pretty uninvolved with either of them.",
+                "user_id": 56.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "혹시 안아키 회원이거나 종교적인 이유로 그러는 거야?",
+                "utter": "Is it for religious reasons",
+                "user_id": 119.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그런 건 아니고, 그냥 아이들에게 무심한 것 같아.",
+                "utter": "That's what my husband and I think. I mean even when they were babies and would run 103 fever_comma_ she wouldn't take them. I just do not understand that at all - they are both grown now but she's pretty uninvolved with either of them.",
+                "user_id": 56.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "아이고... 안타깝네. 올케가 우울증이나 다른 문제가 있을 수도 있겠다. 너라도 조카들을 잘 챙겨줘야겠어.",
+                "utter": "Is it for religious reasons",
+                "user_id": 119.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:1027_conv:2054",
+        "ko_situation": "지하철 탔을 때 모든 사람이 급해 보이고 무례하게 부딪치고 다녀요.",
+        "situation": "When I'm in the grocery store and everyone is in a rush. They are rude and bump into you. ",
+        "emotion": [
+            "annoyed",
+            "disappointed "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "오늘 퇴근 시간에 지하철 탔는데, 다들 어찌나 바쁘게 움직이는지 정신이 하나도 없더라.",
+                "user_id": 135,
+                "utter": "It seems like today everyone in the grocery store was in such a rush. Hurrying around!"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "그치. 특히 2호선은 사람 엄청 많잖아. 괜히 나까지 마음 조급해지고…",
+                "user_id": 273,
+                "utter": "Yeah_comma_ that can be annoying especially in Walmart since so many people go there. It stresses you out when you don't need it to."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "맞아. 사람들끼리 부딪히고 밀치는 건 예사고, 표정도 다들 왜 그렇게 힘들어 보이는지.",
+                "user_id": 135,
+                "utter": "Yes! They cut in front_comma_ and bump into you. Plus being rude while they do it "
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그러게. 다들 하루가 고단한가 봐. 우리끼리라도 힘내자!",
+                "user_id": 273,
+                "utter": "Yeah_comma_ everyone just seems miserable_comma_ so it kind of drags you down_comma_ too. But it's a necessary evil."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:761_conv:1522",
+        "ko_situation": "운전면허 시험을 세 번이나 봤는데 아직도 합격하지 못했습니다.",
+        "situation": "I have appeared for a driving license thrice and still I have not being able to crack it.",
+        "emotion": [
+            "annoyed",
+            "disappointed "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아 진짜! 운전면허 시험 세 번이나 떨어졌어. ",
+                "user_id": 222,
+                "utter": "Hi_comma_ I have applied for a driving license thrice and I have failed in all the thee"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아이고! 왜 어떤 부분에서 감점 받은 거야?",
+                "user_id": 117,
+                "utter": "I am so sorry to hear that! Is there a particular section you are having trouble with?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "그게.. 이번에도 T 주차 때문에… 도저히 못하겠어.",
+                "user_id": 222,
+                "utter": "Yes_comma_ I am a little uncomfortable driving backwards. I just can't do that."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아, 그럴 수 있지. 그 부분이 제일 어렵잖아. 처음엔 어렵고 감이 안 잡히긴 한데. 나도 빈 주차장에서 콘 세워놓고 연습 많이 했어.",
+                "user_id": 117,
+                "utter": "Ah! That's quite understandable. It is tricky at first and non-intuitive. I practiced driving in reverse with cones in an abandoned lot. "
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "나도 매번 그 콘을 피하려고 하는데 너무 가까워서 자꾸 부딪혀.",
+                "user_id": 222,
+                "utter": "every time I try not to hit that cone but those are so close."
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "알지, 어려운 거. 근데 연습이 완벽을 만든다잖아! 계속 연습하면 꼭 합격할 거야!",
+                "user_id": 117,
+                "utter": "I know it's hard_comma_ but practice makes perfect! Keep trying and I am sure you will get it!"
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:328_conv:657",
+        "ko_situation": "사람들이 밥 먹을 때 큰 후루룩쩝쩝 소리 내는 게 너무 싫어.",
+        "situation": "I hate it when people make loud breathing noises while eating a sandwich.",
+        "emotion": [
+            "annoyed",
+            "disgusted"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "야, 너 밥 먹을 때 후루룩거리면서 면치기한 사람 본 적 있어? 마지막 한 끼 먹는 것처럼 음식 쪼가리까지 다 빨아들이는 소리... 진짜 듣기 거북하더라.",
+                "utter": "Have you ever heard someone try to inhale a sandwich? Like literally breath in every crumb like it's the last sandwich they'll ever eat...it's horrible",
+                "user_id": 119.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아, 맞아. 특히 회식할 때 그런 사람 있으면 진짜 민망하지. 나도 본 적 있어. 요즘 먹방에서도 그렇게 해야 맛있게 먹는 다고 그러잖아.",
+                "utter": "I have not and don't want to.",
+                "user_id": 4.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "근데 난 얼마 전에 옆 테이블에서 그러는 사람 봤는데 정말 식욕이 뚝 떨어지더라고.",
+                "utter": "Well you're one of the lucky ones",
+                "user_id": 119.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그래도 뭐, 그 사람 입장에서는 맛있어서 그럴 수도 있지 않을까?",
+                "utter": "I do like a good sandwich thou. But I eat slow.",
+                "user_id": 4.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "아무리 그래도 기본적인 매너는 지켜야 하는 거 아냐?",
+                "user_id": 119.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그건 맞는 말이야. 근데 요즘 각자 바쁘게 살다 보니까 그런 것도 모르고 자란 사람들이 있나 봐.",
+                "user_id": 4.0
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "그러게. 뭐, 그래도 그 사람들이 우리보다 맛있게 먹는 건가? 그렇게 생각하니까 좀 웃기네.",
+                "user_id": 119.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:346_conv:692",
+        "ko_situation": "몇 주 후에 제주도 해변에 있는 휴가용 콘도를 예약했어. 해변 바로 앞에 있어서 멋진 바다 전망을 감상할 수 있어. 너무 기대돼.",
+        "situation": "I have a vacation condo in Florida at the beach reserved in a few weeks. It is right on the beach_comma_ with gorgeous ocean views and I can't wait to go.",
+        "emotion": [
+            "anticipating",
+            "excited "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아, 생각만 해도 설레! 몇 주 뒤에 휴가 가려고 제주도에 콘도 예약했거든. 바다 바로 앞이라 뷰가 끝내준대! 짐 싸는 것부터 신난다, 진짜!",
+                "user_id": 45,
+                "utter": "I am looking forward to going on vacation in a few weeks! We have a condo reserved on the beach_comma_ with fantastic ocean views. I'm ready!"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "이야, 좋겠다! 어느 해수욕장 근처인데?",
+                "user_id": 66,
+                "utter": "Ah_comma_ that sounds fantastic! Which ocean will you be enjoying?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "함덕 해변! 거기 바다 진짜 예쁘잖아.",
+                "user_id": 45,
+                "utter": "Well_comma_ we are staying at Panama City Beach_comma_ so we're right there at the Gulf of Mexico."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "좋지! 함덕이면 딱새우회에 소주 한 잔 해야지! 나 소주에 탄산수 타 마시는 거 좋아하는데, 완전 시원하고 개운해! 너는 뭐 좋아해?",
+                "user_id": 66,
+                "utter": "Sounds awesome! Do you have a beachside beverage or traditions that you enjoy? (Mine would be tequila + lime...very Jimmy Buffett ;-))"
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:497_conv:994",
+        "ko_situation": "주말이 너무 기다려져. 용인에 있는 에버랜드에 갈 거야.",
+        "situation": "I can't wait for the weekend.  I am going to Disney World in Florida.",
+        "emotion": [
+            "anticipating",
+            "excited"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "다음 주말이 너무 기다려져. 용인 에버랜드에 가기로 했거든.",
+                "utter": "I cant wait for next weekend.  I am going to Disney World here in Florida.",
+                "user_id": 160.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "오, 좋겠다. 용인 볼거리 진짜 많지. T익스프레스 타려고? 푸바오는 볼거야?",
+                "utter": "That sounds super fun_comma_ I love florida and orlando its quite awesome.",
+                "user_id": 63.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 맞아! 제대로 즐겨야지. 사실 나 용인 살면서도 에버랜드 자주 안 갔거든. 그래서 이번엔 오랜만에 가는 거야.",
+                "utter": "Yes it is.  I live in Orlando_comma_ but rarely go to the attractions so its long overdue.",
+                "user_id": 160.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "맞아, 가까이 있으면 오히려 잘 안 가게 되더라. 나도 집 근처 놀이공원 1년에 한 번 갈까 말까야.",
+                "utter": "Yea thats fair_comma_ I could imagine if they are so near by you wouldnt care about them.",
+                "user_id": 63.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:64_conv:129",
+        "ko_situation": "다시 이사 갈 날이 기다려져.",
+        "situation": "I cant wait to relocate again. ",
+        "emotion": [
+            "anticipating",
+            "excited"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아, 드디어 이사 갈 날이 코앞이네. 짐 정리 다 끝냈어.",
+                "utter": "I cant wait to relocate and move again. I am so ready. ",
+                "user_id": 11.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "우와! 어디로 이사 가는 거야? 너는 이사 자주 다녀봤어?",
+                "utter": "Wow! Have you been to many places?",
+                "user_id": 1.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "이번에 광명으로 가. 꽤 많이 다녀봤지. 부산, 여수, 인천... 어렸을 때는 아빠 직장 때문에 좀 많이 돌아다녔어. 너는?",
+                "utter": "New York_comma_ VA_comma_ FL... how about you? ",
+                "user_id": 11.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "나는 쭉 서울에만 있었어. 새로운 환경에 적응하는 게 쉽지 않을 것 같은데 괜찮아?",
+                "utter": "I've been in the same place. DC and then its neighbor_comma_ MD.",
+                "user_id": 1.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "처음에는 힘들었는데, 다양한 경험을 할 수 있어서 좋았어.",
+                "user_id": 11.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그렇네. 이번 새로운 집에서도 편하게 지내길 바라. 너의 새로운 출발을 응원할게!",
+                "user_id": 1.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:401_conv:803",
+        "ko_situation": "다음 날 수능 시험 성적이 발표될 예정이었어, 기대감에 잠을 거의 못 잤어.",
+        "situation": "The result of my final college exams was to be published the next day_comma_I could hardly sleep due to expectations",
+        "emotion": [
+            "anxious",
+            "confident"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "수능 날 밤은 정말 길게 느껴졌어, 점수가 너무 궁금해서!",
+                "utter": "The night WS the longest to me back then_comma_eager to know my score!",
+                "user_id": 25.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "잘 본 것 같아?",
+                "utter": "Did you think you did well?",
+                "user_id": 135.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 어느 정도는 잘 본 것 같아. 정말 최선을 다했어.",
+                "utter": "Sure_comma_I put in my best ! I was positive!",
+                "user_id": 25.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그럼 됐네! 열심히 했으니까 결과도 좋게 나올거야! 그리고 너가 열심히 공부했다는 과정과 경험이 중요한 거니까! 그동안 고생했어~",
+                "utter": "That's awesome! It can be nerve racking",
+                "user_id": 135.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:274_conv:548",
+        "ko_situation": "남편과 나는 둘 다 자영업을 하는데, 월말이 다가오면 필요한 자금을 마련하는 데 대한 걱정을 느껴.",
+        "situation": "My husband and I both work for ourselves_comma_ so as the end of the month approaches_comma_ we can sometimes feel a little worried about bringing in the funds we need.",
+        "emotion": [
+            "anxious",
+            "hopeful "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "우리 부부 둘 다 자영업하는데, 참 양날의 검이야. \"고정 수입\"을 기대하기 힘들어서 말이지.",
+                "user_id": 66,
+                "utter": "My husband and I both work for ourselves -- a blessing and a curse at times_comma_ since it can be tough to determine a \"regular\" income."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아, 그렇구나. 힘들겠다. 그래도 자영업이 주는 자유가 있잖아. 그게 더 매력적이지 않아?",
+                "user_id": 109,
+                "utter": "I bet it's tough. A regular income is nice but the freedom you get from working for yourselfs is better. "
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "맞아, 우린 나름대로 균형을 찾았어. 내가 좋아하는 알바를 하나 구했거든. 거기서 4대 보험도 해주더라고. 그래서 큰 걱정 하나는 덜었지.",
+                "user_id": 66,
+                "utter": "We found a pretty good balance in that I have a part-time job that I *love* -- and that comes with benefits like insurance. That's a big worry addressed_comma_ right there."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "오, 그거 진짜 좋다! 나도 매달 보험비 내는 게 제일 큰 걱정이야. 어떻게 그런 좋은 기회를 찾았어?",
+                "user_id": 109,
+                "utter": "Your so lucky. Insurance is my number one worry every month. "
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:646_conv:1293",
+        "ko_situation": "사람들 많은 곳에 있으면 항상 불안해져.",
+        "situation": "I always feel anxious in a crowded room",
+        "emotion": [
+            "anxious ",
+            "apprehensive "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아, 요즘 사람 많은 곳에 가면 자꾸 긴장되고 불안해져.",
+                "utter": "I always feel nervous in a crowd.",
+                "user_id": 202.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "많이 힘들겠다. 어떤 상황에서 특히 그래?",
+                "utter": "That's not good. Do you find yourself in that situation frequently?",
+                "user_id": 198.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "지하철이나 백화점 같은 곳이 제일 심해. 그래서 요즘엔 최대한 그런 곳은 피하려고 해.",
+                "utter": "I try to avoid it at all cost.",
+                "user_id": 202.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "혼자 견디기 힘들었겠다. 혹시 전문가 상담을 받아본 적 있어?",
+                "utter": "I suppose that works. Sorry you feel that way.",
+                "user_id": 198.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그래도 될까? 남들은 다 잘 지내는 것 같은데...",
+                "utter": "",
+                "user_id": 202.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "절대 그렇지 않아. 생각보다 많은 사람들이 비슷한 어려움을 겪고 있어. 넌 혼자가 아니야. 필요하면 내가 함께 가줄 수도 있어.",
+                "utter": "",
+                "user_id": 198.0
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "고마워. 네가 그렇게 말해주니 조금 안심이 되네.",
+                "utter": "",
+                "user_id": 202.0
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "당연하지. 천천히 극복해 나가면 돼. 내가 옆에서 응원할게. 힘들 때 언제든 연락해.",
+                "utter": "",
+                "user_id": 198.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:1659_conv:3318",
+        "ko_situation": "올해 학자금 지원 신청하는 게 좀 무서워. 학기 동안의 모든 비용을 다 충당할 수 있을지 모르겠어. 만약 안 되면 어떻게 학업을 이어갈지 모르겠어.",
+        "situation": "Kind of scared to file for my financial aid this year. Not sure if it will cover all my expenses for the semester. If it doesn't_comma_ I don't know how I'll make ends meet and attend school.",
+        "emotion": [
+            "apprehensive",
+            "devastated"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아... 요즘 너무 스트레스 받아. 대학원 등록금이랑 생활비 때문에 고민이야.",
+                "utter": "Kind of scared to file for my financial aid this year. Not sure if it will cover all my expenses for the semester. If it doesn't_comma_ I don't know how I'll make ends meet and attend school.",
+                "user_id": 273.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "무슨 일 있어? 자세히 얘기해봐.",
+                "utter": "Can you get another job?",
+                "user_id": 4.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "이번 학기 등록금이랑 생활비를 어떻게 감당해야 할지 모르겠어. 학자금 대출을 받아야 할 것 같은데, 그러면 빚만 늘어날 것 같고...",
+                "utter": "I wish. That was my first thought_comma_ but I just can't make it work_comma_ time-wise. I major in social work_comma_ and an internship is mandatory_comma_ and that's a part-time job in itself.",
+                "user_id": 273.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "음, 그렇구나. 혹시 학교에서 제공하는 장학금은 알아봤어?",
+                "utter": "Can you take out a loan?",
+                "user_id": 4.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "응, 찾아봤어. 근데 경쟁률이 너무 높더라고. 그리고 내가 사회복지학과라 필수로 해야 하는 인턴십 때문에 시간제 알바를 구하기도 힘들어.",
+                "utter": "I really don't want to. But I might have to. I'm scared of going into even more debt_comma_ since I already have student loans. We'll see what my options are after I talk to my family.",
+                "user_id": 273.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "너무 걱정하지 마. 우리 같이 해결책을 찾아보자. 일단 학교 학생지원센터에 상담을 받아보는 건 어때? 아니면 혹시 부모님께 도움을 요청해볼 수는 없을까?",
+                "user_id": 4.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:620_conv:1240",
+        "ko_situation": "처음 담배를 피웠을 때 정말 무서웠어. 하지만 그 후에는 느낌이 좋았지.",
+        "situation": "The first time that I ever tried weed was so scary at first. I was in Amsterdam and I was offered a hit from a bong and I was really hesitant_comma_ but it was a great time after that.",
+        "emotion": [
+            "apprehensive",
+            "excited"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "너 담배 피워본 적 있어? 나 얼마 전에 해외여행 갔다가 처음으로 피워봤는데, 긴장돼서 손이 덜덜 떨리더라.",
+                "utter": "Ever tried weed? I did over in Amsterdam and man I was so nervous to try it!",
+                "user_id": 55.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "나? 군대에서 한두 번 피워봤는데 별로였어. 넌 어땠어?",
+                "utter": "I tried it when I was a student. It wasn't my cup of tea. How did you find it?",
+                "user_id": 196.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "그냥 한 번 경험해보고 싶어서 피워봤어. 긴장은 됐지만 나름 색다른 경험이었지.",
+                "utter": "I was just interested in trying it over there and I was offered a hit from a bong. I was nervous like I said_comma_ but I loved every second of it!",
+                "user_id": 55.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그렇구나. 근데 담배는 건강에 안 좋으니까 그냥 한 번 경험으로 끝내는 게 좋을 것 같아.",
+                "utter": "Good. What did you think of Amsterdam? I have been there 3 or 4 times.",
+                "user_id": 196.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아, 나도 그렇게 생각해. 그래서 여행 끝나고 다시는 안 피웠어.",
+                "utter": "It was bizarre compared to America but it was a great time!",
+                "user_id": 55.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "잘했어. 그나저나 해외여행은 어땠어? 재밌었어?",
+                "utter": "I am from the UK so I think it's less of a culture shock for us. I remember seeing very high Americans wandering around as if tehy had over indulged.",
+                "user_id": 196.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:431_conv:863",
+        "ko_situation": "미래에 무슨 일이 일어날지 모르겠어. 모든 것이 하나님의 손에 달려 있어! 내일을 걱정하지 마.",
+        "situation": "Who knows what the future hold? All is in Gods hands! Take no thought about the morrow",
+        "emotion": [
+            "apprehensive",
+            "hopeful"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "어렸을 때는 커서 부자가 될까 가난하게 살까 고민했던 기억이 나. 지금 생각하면 좀 웃기지?",
+                "utter": "Growing up  _comma_I had prospects_comma_would I be rich _comma_or would I be poor _comma_lingered on my mind..Lol!",
+                "user_id": 25.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "그래, 어릴 땐 다들 그런 생각 한 번쯤 해봤겠지. 근데 이제는 현실적으로 생각해야 해.",
+                "utter": "Work hard at it_comma_poverty is no joke. Not an option!",
+                "user_id": 6.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "맞아. 열심히 일하는 것도 중요하고, 운도 따라줘야 하겠지?",
+                "utter": "Yeah ! Work hard _comma_pray hard I suppose?",
+                "user_id": 25.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그치. 노력도 중요하지만 자기계발도 꾸준히 해야 해. 시대가 빠르게 변하니까.",
+                "utter": "And play smart_comma_do whatever it takes to elevate yourself. That is the attitude.",
+                "user_id": 6.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그러게. 요즘은 뭘 배워야 할지도 모르겠어.",
+                "user_id": 25.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "일단 지금 하는 일에 최선을 다하면서, 관심 있는 분야를 찾아보는 것도 좋을 것 같아.",
+                "user_id": 6.0
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "그런 것 같아. 너는 어떤 식으로 자기계발 하고 있어?",
+                "user_id": 25.0
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "나는 요즘 온라인 강의로 새로운 기술을 배우고 있어. 천천히 하지만 꾸준히 하려고 노력 중이야.",
+                "user_id": 6.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:335_conv:670",
+        "ko_situation": "한화 이글스 팬인 게 부끄러워.",
+        "situation": "I am embarrassed to be a Cleveland Browns fan.",
+        "emotion": [
+            "ashamed",
+            "disappointed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아, 최근 성적이 너무 안 좋아서, 한화 이글스 팬이라는 게 너무 부끄러워.",
+                "utter": "I am embarrassed to be a fan of the Cleveland Browns.",
+                "user_id": 4.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "나도 네 입장이었으면 그럴 것 같아. 혹시 대전 출신이야?",
+                "utter": "I would be as well if I were you. Are you from the area?",
+                "user_id": 60.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 대전에서 나고 자랐어.",
+                "utter": "Yes. I grew up in the city.",
+                "user_id": 4.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아하...  이제 곧 류현진 선수가 그 팀을 구해줄 거라고 하지 않았어?",
+                "utter": "wasn't Johnny Manziel susposed to save that team?",
+                "user_id": 60.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:15_conv:30",
+        "ko_situation": "회식에 갔는데 최악의 경험을 했어.",
+        "situation": "I went to a party and it was real bad. ",
+        "emotion": [
+            "ashamed",
+            "guilty"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "처음으로 회식에서 술을 마셨는데, 선배들이 자꾸 권하는 바람에 거절하기가 힘들더라고.",
+                "utter": "I never took a drink before and my friends were all over me to take a drink",
+                "user_id": 21.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아, 그랬구나. 근데 왜 그렇게 죄책감을 느끼는 거야?",
+                "utter": "Why did you feel guilty for taking a drink?",
+                "user_id": 22.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "술이 내 체질에 안 맞는 것 같아. 마시자마자 속이 안 좋아지더니, 밤새 고생했어.",
+                "utter": "It was not my thing and the moment I took I did wrong. Later in the night I started feeling bad.",
+                "user_id": 21.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그렇구나. 하지만 너무 자책하지 마. 누구나 처음엔 그럴 수 있어.",
+                "utter": "I can understand. I am not a big drinker myself_comma_ but I wouldn't feel guilty about it.  Not unless you promised someone you wouldn't drink.",
+                "user_id": 22.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "사실 예전에 부모님께 술 안 마시겠다고 약속했거든. 근데 결국 토하고 옷도 더럽혀서 들키고 말았어.",
+                "utter": "Yeah I did to my mum and dad...When I started vomiting I mess my dress and mum knew. ",
+                "user_id": 21.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그럴 수 있지. 부모님께 약속한 거라 그렇구나. 하지만 이번 일로 네 주량도 알게 됐잖아.",
+                "utter": "Oh yea I can understand that then... Well I am sure you learned your lesson_comma_ right?",
+                "user_id": 22.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:1105_conv:2211",
+        "ko_situation": "난 20대 후반인데 아직 대학 학위가 없어.",
+        "situation": "I'm in my late 20s and don't have a college degree.",
+        "emotion": [
+            "ashamed",
+            "anxious"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "말하기 좀 창피한데, 나 이제 곧 서른 되는데 아직도 대학 졸업장이 없어.",
+                "utter": "I'm in my late 20s and don't have a college degree",
+                "user_id": 220.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "그럴 수 있지? 근데 그게 왜?",
+                "utter": "What are you waiting for to get one?",
+                "user_id": 75.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "그냥... 고등학교 졸업하고 바로 백화점에서 일하기 시작했거든. 근데 이제 한계 느끼고 후회되네.",
+                "utter": "I work retail and should get one to get a better job.",
+                "user_id": 1.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아... 이직이나 진급하고 싶은데 학력 때문에 안 되는 거구나?",
+                "utter": "Ok then_comma_ go get one and stop complaining.",
+                "user_id": 75.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아. 이직하고 싶은데, 다들 대졸자만 뽑더라고.",
+                "utter": "",
+                "user_id": 1.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그럼 이제라도 대학 가야겠네. 야간대나 사이버대학 어때?",
+                "utter": "",
+                "user_id": 75.0
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "맞아... 근데 일하면서 공부하려니까 너무 막막해.",
+                "utter": "",
+                "user_id": 1.0
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "에이, 할 수 있어! 지금이라도 시작하면 돼. 네 미래를 위해서 힘내!",
+                "utter": "",
+                "user_id": 75.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:95_conv:190",
+        "ko_situation": "내 친구의 아기가 어제 다쳐서 내가 그 아기를 달래주려고 했어.",
+        "situation": "my friend's baby hurt himself yesterday i was trying to cheer him up",
+        "emotion": [
+            "caring",
+            "proud"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "어제 친구 아기가 넘어져서 무릎을 다쳤는데 내가 열심히 달래줬어.",
+                "user_id": 50,
+                "utter": "so my friend's baby fell down and scraped his knee yesterday and i was trying so hard to cheer him up"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "정말 착하네. 어떻게 달랬어?",
+                "user_id": 4,
+                "utter": "That is nice of you. What did you do?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "동요 불러줬어 :)",
+                "user_id": 50,
+                "utter": "i was singing nursery songs :)"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "어떤 노래?",
+                "user_id": 4,
+                "utter": "Which one?"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "머리, 어깨, 무릎, 발' 불렀어 :)",
+                "user_id": 50,
+                "utter": "If you happy and you know it :)"
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "나도 어릴 때 엄마가 그거 불러주곤 했는데! 추억돋네 ㅎㅎ",
+                "user_id": 4
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:80_conv:161",
+        "ko_situation": "청구서를 메우기 위해 추가 근무를 제안했어.",
+        "situation": "when i offered to work extra hours to make up for bills ",
+        "emotion": [
+            "caring",
+            "apprehensive "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "요즘 가족 생활비 때문에 회사에 추가 근무를 더 하겠다고 했어.",
+                "utter": "Recently I offered to start working extra long hours just to help support my family more. ",
+                "user_id": 11.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "와, 대단하다. 집에 돈 많이 필요해?",
+                "utter": "That's really considerate of you. Do they need your help a lot?",
+                "user_id": 1.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 얼마 전에 이사했거든. 전세금 마련하느라 대출받았어. 이자가 장난 아니야.",
+                "utter": "Yeah we recently moved so we have gotten in quite debt while trying to sell the previous home! ugh ",
+                "user_id": 11.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아, 요즘 집값이 미쳤지. 빨리 대출 갚고 안정됐으면 좋겠다!",
+                "utter": "Wow. Home selling can be tough. I hope that debt clears up real soon!",
+                "user_id": 1.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:609_conv:1218",
+        "ko_situation": "나는 최근에 정말 좋은 직장에 지원했어. 내가 지원자 중 최고라서 쉽게 합격할 것 같아.",
+        "situation": "I applied for a really high paying job last week. I am over qualified_comma_ so this should be easy_comma_ and I should get the job without any effort.",
+        "emotion": [
+            "confident",
+            "hopeful"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "최근에 정말 좋은 직장에 지원했어. 내가 지원자 중에서 최고라서 쉽게 합격할 것 같아.",
+                "user_id": 190,
+                "utter": "Getting this new job should be easy. I am easily the best person that applied."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "와, 무슨 직장에 지원했어?",
+                "user_id": 55,
+                "utter": "Damn_comma_ very confident huh? What job did you apply for?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "삼성전자 CEO 자리에 지원했어. 그들이 넥스트 이재용을 필요로 할 것 같아서!",
+                "user_id": 190,
+                "utter": "CEO of Apple. I figured they need a Steve 2.0 to take them forward! "
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "정말 대단한데! 연봉도 엄청 좋겠네.",
+                "user_id": 55,
+                "utter": "Oh wow_comma_ that outta pay very well."
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그럼! 연봉도 좋고, 내가 원하는 일들을 마음껏 할 수 있을 것 같아.",
+                "user_id": 190
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그럼 결과 기다리면서 기대가 크겠네.",
+                "user_id": 55
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "맞아, 기대가 커서 결과가 어떻게 나올지 정말 궁금해.",
+                "user_id": 190
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "좋은 결과 있길 바라! 넌 충분히 잘할 수 있어.",
+                "user_id": 55
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:999_conv:1998",
+        "ko_situation": "최근에 LEET 시험을 봤어.",
+        "situation": "I recently took the Law School Admissions Test.",
+        "emotion": [
+            "confident",
+            "hopeful"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "나 LEET 시험을 꽤 잘 본 것 같아.",
+                "utter": "I believe I did rather well on my Law School Admissions Test.",
+                "user_id": 274.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "점수가 얼마나 될 것 같아?",
+                "utter": "what do you think your score was?",
+                "user_id": 238.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "최소 150점 이상은 나올 것 같은데?",
+                "utter": "I am hoping for at least in the 150 range.",
+                "user_id": 274.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "와, 그 점수면 진짜 좋은데! 나도 5-6년 전에 LEET 시험 봤을 때 156점 받았었어. 어디 로스쿨 가고 싶어?",
+                "utter": "Ah thats a good score.  When i took the LSATs about 15-16 years ago I received a 156 i believe.  Where do you hope to go to school?",
+                "user_id": 238.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "서울대나 연세대 로스쿨에 가고 싶어.",
+                "utter": "I am hoping to go to Mitchell Hamline in Minnesota or Syracuse",
+                "user_id": 274.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "넌 충분히 갈 수 있을 거야. 지금까지 보여준 실력과 노력이면 분명 합격이잖아!",
+                "utter": "Good luck!",
+                "user_id": 238.0
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "고마워. 널 비롯한 주위 사람들의 응원이 큰 힘이 되는 것 같아. 2주 안으로 결과 나올 것 같아.",
+                "utter": "Thank you_comma_ I should hear something in the next two weeks",
+                "user_id": 274.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:645_conv:1290",
+        "ko_situation": "나만의 라면과 밥을 만들 때, 모두 레시피 그대로 정량해서 따라가. 그러면 매번 최고의 라면과 밥이 완성돼.",
+        "situation": "When I make my world famous chicken and rice_comma_ I like to cut up all the ingredients into small containers. Then I follow the cooking instructions down to a second. Makes the best rice_comma_ everytime.",
+        "emotion": [
+            "confident",
+            "prepared"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "라면이랑 밥 맛있게 만드는 비결이 뭔지 알아?",
+                "user_id": 190,
+                "utter": "The key to making good chicken and rice_comma_ is following the recipe precisely "
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "어떻게 하는데? 나 요리 잘 못해서... 알려줘!",
+                "user_id": 203,
+                "utter": "How do you make it?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "요리하기 전에 필요한 재료를 미리 다 준비해 두는 거야. 그리고 물은 꼭 정량에 맞춰서 넣고.",
+                "user_id": 190,
+                "utter": "You've got to cut up all the ingredients_comma_ and put it in small containers_comma_ before finally cooking all at once."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아하, 다음엔 그렇게 해봐야겠다. 고마워!",
+                "user_id": 203,
+                "utter": "Good to know.  I will do it like it next time."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:510_conv:1020",
+        "ko_situation": "추운 겨울밤에 핫초코를 마시는 느낌 알고 있어?",
+        "situation": "Do you know the feeling of drinking hot cocoa on a cold winter's night?",
+        "emotion": [
+            "content",
+            "nostalgic"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "추운 겨울 밤에 마시멜로 넣은 핫초코 한 잔 마시는 그 느낌 알아?",
+                "user_id": 169,
+                "utter": "Do you know the feeling of drinking a mug of hot cocoa with marshmallows on a cold winter's night?"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아직 안 해봤는데, 정말 즐겁고 기분 좋을 것 같아.",
+                "user_id": 155,
+                "utter": "I have not tried yet_comma_ but i feel like it would be enjoying and full of delight"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "다음에 추워지면 꼭 해봐. 진짜 편안하고 잠이 솔솔 와, 하하.",
+                "user_id": 169,
+                "utter": "Next time you get a cold front in your area you should try it. It's extremely relaxing and sleep-inducing haha"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "대구에서는 웬만해선 눈을 보기가 힘들어. 그래서 그냥 패스할래.",
+                "user_id": 155,
+                "utter": "I live in a place where it only snows once in 10 years. So_comma_ i think i am passing on that"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "나도 비슷해. 부산에 사는데, 여기서는 평생 세 번이나 네 번 눈 봤어. 정말 잊을 수 없는 기억으로 남아있어.",
+                "user_id": 169,
+                "utter": "I live in Louisiana_comma_ so it's very rare that I get to enjoy it. I've had it maybe three or four times in my lifetime. It just left a lasting impression."
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "부산에서도 그렇게 눈이 귀한가 보네. 그런 날엔 핫초코 한 잔이 딱일 텐데.",
+                "user_id": 155
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "맞아, 그럴 때면 집에서 따뜻하게 보내는 게 최고지.",
+                "user_id": 169
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "만약 눈이 오면 나도 한번 도전해봐야겠어. 그 느낌이 궁금하네.",
+                "user_id": 155
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:464_conv:928",
+        "ko_situation": "어버이날, 안개가 짙은 아침이었어.부모님과 함께 집에서 여유롭고 편안한 시간을 보내며 가족과의 소중한 순간을 경험하고 그 가치를 깨달았어.",
+        "situation": "It was mother's day and it was a pretty_comma_ foggy morning. Me and my three kids sat on my bed cuddling and relaxing_comma_ and my husband brought us all some breakfast. I was so happy spending time with my family and enjoying such a peaceful morning.",
+        "emotion": [
+            "content",
+            "grateful"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "야, 어제 어버이날이었잖아. 우리 부모님이랑 아침부터 같이 시간 보냈는데 진짜 좋더라.",
+                "utter": "On mother's day my kids and I had a nice relaxing morning just cuddling in bed. My spouse made breakfast in bed and we all just hung out together. It made me feel so peaceful and happy.",
+                "user_id": 152.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "오, 그래? 어떻게 보냈는데?",
+                "utter": "That is great to hear. I can tell your family loves you a lot!",
+                "user_id": 139.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "늦잠 자고 일어나서 엄마 아빠랑 같이 아침 먹고 그냥 집에서 뒹굴뒹굴 했어. 옛날 앨범도 보고.",
+                "utter": "Oh thank you that's a nice thing to say! ",
+                "user_id": 152.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "와, 진짜 좋았겠다. 부모님이 너 진짜 좋아하시는 게 느껴진다!",
+                "utter": "It is nice we have days to celebrate mothers and fathers. They deserve the recognition for their hard work!",
+                "user_id": 139.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아. 나도 그 시간이 너무 소중하더라. 요즘 바빠서 이런 시간 못 가졌는데.",
+                "utter": "",
+                "user_id": 152.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그러게. 어버이날 같은 날이 있어서 좋은 것 같아. 부모님한테 감사하는 시간 되고.",
+                "utter": "",
+                "user_id": 139.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:2586_conv:5172",
+        "ko_situation": "나는 어릴 때부터 우유를 별로 좋아하지 않았어. 집에서는 항상 두유를 먹었거든. 그러다 나중에 우유가 더 나을까 해서 마셔봤는데, 그것도 별로였어. 그런데 저지방 우유를 마셔보니까 이제는 즐길 수 있더라고.",
+        "situation": "I never liked milk. I always had skim milk growing up. Then I decided that maybe whole milk would be better_comma_ but I didn't like that either. But now that I've had 2% milk_comma_ I can enjoy it.",
+        "emotion": [
+            "content",
+            "nostalgic"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "나는 어릴 때부터 우유를 별로 좋아하지 않았어. 집에서는 항상 두유를 먹었거든.",
+                "user_id": 392,
+                "utter": "I never liked milk growing up_comma_ because my family drank skim. "
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "우유를 별로 안 좋아했구나. 지금은 좋아졌어?",
+                "user_id": 132,
+                "utter": "Do you like it now?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "처음에는 그냥 우유를 시도해봤는데, 그건 정말 별로였어. 그런데 저지방 우유를 마셔보니까 그건 괜찮더라!",
+                "user_id": 392,
+                "utter": "Well_comma_ first I tried whole milk_comma_ and that was gross. But I just tried 2% milk_comma_ and I like it!"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "나도 저지방 우유 좋아해. 시리얼이나 초코우유 만들 때 딱이야!",
+                "user_id": 132,
+                "utter": "I like 2% as well.  It's perfect for cereal and chocolate milk!"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아! 나도 이제야 우유를 즐길 수 있어서 너무 좋아.",
+                "user_id": 392,
+                "utter": "I agree! I'm so happy I can enjoy it now."
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "혹시 무지방 우유는 마셔본 적 있어?",
+                "user_id": 132,
+                "utter": "Have you tried 1%?"
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "아니, 그건 안 마셔봤지만 지금 저지방 우유에 만족하고 있어.",
+                "user_id": 392,
+                "utter": "No_comma_ but I am satisfied with my choice. "
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "그거면 충분하지! 저지방 우유가 그냥 우유보다 훨씬 건강에도 좋고, 맛도 적당하니까.",
+                "user_id": 132,
+                "utter": "That's great.  2% is much more healthful than whole milk."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:387_conv:775",
+        "ko_situation": "친구가 “재벌집 막내아들”을 스포일러했어… 2화까지밖에 안 봤는데 이거 다 꿈이라고 해서 슬프고 충격받았어.",
+        "situation": "I loved watching \"Sons of Anarchy\" and had only got through Season 2...when my friend ruined everything and said they were all gonna die at the end.  I was sad and horrified",
+        "emotion": [
+            "devastated",
+            "annoyed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "진짜 너무 화가 나! '재벌집 막내아들' 2화까지 밖에 안 봤는데, 친구가 스포 해버렸어! 다 꿈이라고... 진짜 너무 충격적이야! ",
+                "utter": "I can't believe my friend ruined Sons of Anarchy for me...I was only on season 2 and she told me about how they all die at the end I was sad and horrified",
+                "user_id": 119.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "어휴, 그랬구나. 스포일러는 정말 짜증나지. 특히 재밌게 보고 있는 드라마 스포일러는 더 싫지만, 근데 그 친구도 너한테 일부러 그랬던 건 아닐 거야.",
+                "utter": "That really sucks. I hate it when people spoil shows!",
+                "user_id": 139.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "그래도 너무 실망이야. 이제 재미없게 봐야 할 것 같아서...",
+                "utter": "Yeah tell me about...never gonna watch Netflix with her again haha",
+                "user_id": 119.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "에이, 그래도 괜찮아. 스토리 전개나 연기력을 보는 재미도 있잖아. 오히려 더 깊이 있게 볼 수 있을지도 몰라.",
+                "utter": "Sometimes you just got to binge on your own_comma_ lol!",
+                "user_id": 139.0
+            }
+        ]
+    },
+    
+    {
+        "conv_id": "hit:445_conv:890",
+        "ko_situation": "아버지가 돌아가셔서 정말 망연자실해.",
+        "situation": "I am devasted.",
+        "emotion": [
+            "devastated",
+            "sad"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "요즘 정말 힘들어. 마음이 너무 공허해. 아무것도 손에 잡히지 않아.",
+                "utter": "I am very devastated these days.",
+                "user_id": 75.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "무슨 일 있었어? 많이 힘들어 보이네.",
+                "utter": "That seems bad and I am sorry to hear that. What happened?",
+                "user_id": 155.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "아버지가 3주 전에 돌아가셨어. 아직도 믿기지가 않아.",
+                "utter": "My father day 3 weeks ago.I still can't believe.",
+                "user_id": 75.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아이고, 정말 마음이 아프겠다. 삼가 고인의 명복을 빕니다. 장례는 잘 치르셨어?",
+                "utter": "I am truly sorry to hear that. Please accept my apologies for your loss. May he rest in peace",
+                "user_id": 155.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "응, 가족들이랑 친지분들 도움으로 잘 모셨어. 그래도 아직 실감이 안 나.",
+                "utter": "",
+                "user_id": 75.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그럴 수 있어. 시간이 좀 걸릴 거야. 지금은 네 감정에 충실해도 돼. 슬퍼해도 괜찮아.",
+                "utter": "",
+                "user_id": 155.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:57_conv:115",
+        "ko_situation": "200개 이상의 일자리에 지원했는데, 아무 소식도 못 들었어요!",
+        "situation": "i applied for 200+ jobs and still didn't hear from none of them!",
+        "emotion": [
+            "devastated ",
+            "disappointed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "나 진짜 미치겠어. 이력서만 200개 넘게 넣었는데, 아직도 연락 온 곳이 하나도 없어.",
+                "utter": "so i applied for 200+ jobs and i can't believe i didn't hear from none of them!",
+                "user_id": 52
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "헐, 정말 힘들었겠다. 그 정도면 진짜 열심히 노력한 거네. 원하는 직종이 따로 있어?",
+                "utter": "Bummer!!! Are you looking for a work at home job or just an outside job?",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "이젠 그런 거 가릴 처지가 아니야. 그냥 정규직이면 어디든 좋아.",
+                "utter": "just any job at this point. just a full time stable job",
+                "user_id": 52
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "진짜 속상하겠다. 요즘 취업 시장이 정말 어렵지. 근데 네가 그렇게 열심히 노력하고 있으니 곧 좋은 기회가 올 거야.",
+                "utter": "I hear ya.. I hope you find one soon... wishing you all of the best!",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그래도 네가 이렇게 위로해 주니까 좀 낫네. 고마워. 너도 항상 좋은 일만 가득하길 바라!",
+                "utter": "thank you!",
+                "user_id": 52
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:136_conv:273",
+        "ko_situation": "하이마트에서 42인치 TV를 사러 갔는데, 광고판에는 70만원이라고 써있었지만 세금을 포함하면 90만원였어.",
+        "situation": "I went to buy a 42 inch tv at walmart_comma_ the billboard says 299 usd_comma_ it was at 399 usd after taxes.",
+        "emotion": [
+            "disappointed",
+            "annoyed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "나 오늘 1시간 동안 운전해서 하이마트 매장에 갔어. 광고된 대로 70만 원을 들고 갔는데, 실제 TV 가격은 90만 원이었지 뭐야. 진짜 허탈하더라.",
+                "user_id": 47,
+                "utter": "So yeah i drove 2 hours to get to wallmart. with 299 in my wallet as advertised_comma_ and the real price of the tv was 399 usd. what a bummer"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "진짜 너무하네. 왜 그렇게 허위 광고를 하는 거지?",
+                "user_id": 4,
+                "utter": "Thats horrible."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "그러니까 말이야. 기대 많이 했었는데 결국 빈손으로 돌아왔어. 기분이 정말 나빴어!",
+                "user_id": 47,
+                "utter": "Yeah i had my hopes reall high and then i left empty handed_comma_ such a terrible feeling!"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "나도 그런 경험이 있었어. 진짜 속상하지.",
+                "user_id": 4,
+                "utter": "Yes I do not like walmart."
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "요즘 허위 광고가 너무 많아. 집에 빈손으로 돌아왔을 때의 우리 딸 눈빛이 아직도 잊혀지질 않네.",
+                "user_id": 47,
+                "utter": "Yes_comma_ i guess walmart and the rest of false advertisement in the US_comma_ the look in my daugther eyes when i came home empty handed"
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그럴 때는 정말 가족들까지 실망하게 되니 더 속상하지. 맘이 많이 아팠겠다.",
+                "user_id": 4
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:808_conv:1617",
+        "ko_situation": "며칠 전에 롯데리아에 가서 밥버거를 거의 6000원 주고 샀어. 근데 주먹밥보다도 작더라고. 정말 너무 실망스러웠어.",
+        "situation": "I went to Hardee's the other day and got a slider burger for almost 2 dollars. It was the size of a Krystal burger. It was just so unsatisfactory.",
+        "emotion": [
+            "disappointed",
+            "nostalgic"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "롯데리아 가본 적 있어?",
+                "user_id": 231,
+                "utter": "Have you ever eaten at Hardee's?"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "내가 제일 좋아하는 곳 중 하나야. 거기 소프트 아이스크림 진짜 좋아해.",
+                "user_id": 226,
+                "utter": "One of my favorite places to eat. I love the swirled ice cream cones."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "나도 좋아해. 근데 최근에 나온 밥버거는 별로야. 너무 작고 하나에 거의 6000원이나 해!",
+                "user_id": 231,
+                "utter": "I like it too_comma_ but I'm not a big fan of their new sliders. They're so tiny_comma_ and just one of them cost almost 2 dollars!"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "가격이 비싸면 별로지. 난 저렴한 메뉴가 좋아.",
+                "user_id": 226,
+                "utter": "Over priced food is no fun. I like dollar menus."
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아, 예전에는 저렴하고 맛있는 메뉴가 많았는데 요즘은 가격이 너무 올라서 아쉽더라.",
+                "user_id": 231
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그러게, 예전의 그 맛과 가성비가 그리워.",
+                "user_id": 226
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "요즘은 다른 데를 가야 하나 싶어. 롯데리아가 변한 게 아쉽긴 해.",
+                "user_id": 231
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "그래도 가끔 그리워질 때 한 번씩 가보는 것도 나쁘지 않겠지.",
+                "user_id": 226
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:59_conv:119",
+        "ko_situation": "오늘 아파트 밖에서 뱀을 봤어.",
+        "situation": "I saw a snake outside my apartment today",
+        "emotion": [
+            "disappointed",
+            "sad"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "오늘 아파트 밖에서 뱀을 봤어. 정말 싫어.",
+                "utter": "so i saw a snake outside my apartment today_comma_ i hate snakes_comma_ so disgusting eww",
+                "user_id": 52.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "세상에... 나였으면 손기정 선수처럼 전속력으로 뛰었을 거야. 그래서 어떻게 했어?",
+                "utter": "I would have went running like forest gump - what did you do?",
+                "user_id": 11.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "집 안으로 들어가서 119에 전화했어. 독사 같아서 건드릴 수 없었어.",
+                "utter": "went back inside the house and called animal control. it looked like a copperhead so i'm not messing with them",
+                "user_id": 52.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "에구... 혹시 이사 갈 생각은 해 봤어?",
+                "utter": "Going to have to burn the whole house down now_comma_ and move... LOL just joking!",
+                "user_id": 11.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "나도 그러고 싶은데 돈이 없다ㅋㅋㅋ... 그래도 평소에는 좋은 집이야.",
+                "utter": "i totally would. lol i hate snakes and bugs and spiders",
+                "user_id": 52.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그 집에 계속 살 거면 방역 업체를 부르거나 다른 해결책을 찾아보는 것도 좋겠어! 안전이 가장 중요하니까.",
+                "user_id": 11.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:701_conv:1403",
+        "ko_situation": "어떤 나라에서는 벌레를 먹는대. 알았을 때 진짜 소름 돋더라.",
+        "situation": "I felt disguusted when I saw that people like to eat bugs.",
+        "emotion": [
+            "disgusted",
+            "disappointed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "어떤 나라에서는 벌레를 먹는대. 알았을 때 진짜 소름 돋더라.",
+                "utter": "I felt grossed out when i found out people eat bugs",
+                "user_id": 34.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "진짜? 근데 생각해보면 우리나라 음식도 외국인들한테는 이상해 보일 수 있지 않아?",
+                "utter": "haha. Ye like its normal to them. Nasty",
+                "user_id": 188.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "그래? 뭐 예를 들면?",
+                "utter": "Yes it is just normal to them",
+                "user_id": 34.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "음... 보신탕이나 산낙지 같은 거? 외국인들은 처음에 좀 놀란대.",
+                "utter": "hey_comma_ eating dogs are normal to some! sick",
+                "user_id": 188.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "아, 그렇지. 근데 보신탕은 요즘 논란도 많고 먹는 사람도 줄어들고 있잖아.",
+                "user_id": 34.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "맞아. 시대가 변하니까 문화도 조금씩 바뀌는 것 같아.",
+                "user_id": 188.0
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "그래도 벌레 먹는 건 상상도 못하겠다.",
+                "user_id": 34.0
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "ㅋㅋ나도. 근데 누군가는 우리가 먹는 게 더 이상하다고 생각할 수도 있을 거야. 이해는 못 해도 비난하진 말자!",
+                "user_id": 188.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:736_conv:1473",
+        "ko_situation": "매주 수요일마다 쓰레기를 밖에 버려야 해. 뚜껑을 열고 파리 떼가 나타날 때마다 너무 혐오스러워.",
+        "situation": "Every Sunday I have to take the trash out to the road. I feel an overwhelming sense of disgust every time I lift up the lid and a swarm of flies appears.",
+        "emotion": [
+            "disgusted", 
+            "guilty"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "야, 너 쓰레기 분리수거하는 거 진짜 짜증 나지 않아? 난 매주 하는 게 너무 힘들어. 그 큰 봉투들 들고 가는 것도 너무 불편하고.",
+                "utter": "Do you usually take your trash out to the road every week? It is quite an awful experience_comma_ in my opinion. I feel very disgusted hauling that big ole bin to the road.",
+                "user_id": 209.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아, 그래? 난 아파트 살아서 그냥 분리수거장에 버리는데. 그래도 네 말 듣고 보니 좀 귀찮긴 하겠다.",
+                "utter": "I live in an apartment so I take mine out to the dumpster every few weeks. I feel your pain though. Growing up I had to take ours down our steep driveway every week.",
+                "user_id": 76.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "진짜 체력 소모 장난 아니야. 게다가 여름에는 파리까지 꼬이고... 뭔가 병 걸릴 것 같은 느낌이랄까?",
+                "utter": "I know! It's physically exhausting. And when the flies start swarming_comma_ I get terrified and feel like I am going to come down with the bubonic plague.",
+                "user_id": 209.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "음, 그렇게 생각하면 좀 그렇겠다. 근데 우리가 환경을 위해 꼭 해야 하는 일이잖아.",
+                "utter": "It is daunting. I think I still have nightmares about it. I feel dirty just thinking about it right now.",
+                "user_id": 76.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그건 그래. 근데 진짜 냄새나고 지저분해서 스트레스 받아.",
+                "utter": "",
+                "user_id": 209.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "이해해. 그래도 방법을 좀 바꿔보는 건 어때? 예를 들어 음식물 쓰레기는 밀폐용기에 넣어두면 냄새도 덜 나고 벌레도 안 생기더라고.",
+                "utter": "",
+                "user_id": 76.0
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "오, 그거 괜찮은 것 같은데? 다른 팁 없어?",
+                "utter": "",
+                "user_id": 209.0
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "응, 재활용품은 미리미리 씻어서 말려두면 냄새도 덜 나고 버리기도 편해. 이렇게 조금씩 습관을 바꾸다 보면 그렇게 힘들진 않을 거야.",
+                "utter": "",
+                "user_id": 76.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:661_conv:1323",
+        "ko_situation": "한 번은 술에 취해서 창피한 문자를 보냈어.",
+        "situation": "Once I sent embarrassing drunken text messages",
+        "emotion": [
+            "embarrassed",
+            "ashamed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아, 진짜 미치겠다. 어제 술 먹고 카톡 실수로 보냈어...",
+                "utter": "I sent some stupid Whatsapp messages the other day",
+                "user_id": 196.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "에이, 무슨 카톡인데 그래? 심각한 거야?",
+                "utter": "I hope it is not too bad. You sent it to who?",
+                "user_id": 7.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "회사 단톡방에다가... 아침에 일어나서 확인했는데 진짜 심장 멎는 줄 알았어.",
+                "utter": "Just some work colleagues.",
+                "user_id": 196.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "헉, 회사 단톡방? 근데 뭐라고 보냈는데?",
+                "utter": "What did you say to them?",
+                "user_id": 7.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그냥 술 김에 아재개그 몇 개 던진 거야. 지금 생각하니까 손발이 오그라들어.",
+                "utter": "I was just talking nonsense - drunken jokes and stuff",
+                "user_id": 196.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "아이고... ㅋㅋㅋ 그래도 다들 직장 동료니까 이해하지 않을까? 오히려 웃으면서 넘어갔을거야.",
+                "utter": "",
+                "user_id": 7.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:273_conv:547",
+        "ko_situation": "팀장님 책상에 있던 화분을 깨트렸어. 너무 미안해.",
+        "situation": "I broke my coworker statue",
+        "emotion": [
+            "embarrassed",
+            "guilty"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아, 어떡하지... 오늘 회사에서 큰 실수했어. 팀장님 책상에 있던 화분을 깨트렸어.",
+                "utter": "I broke my coworker statue which was on her desk. I feel so bad about it.",
+                "user_id": 7.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "팀장님께 말씀드렸어?",
+                "utter": "Oh no_comma_ were you able to tell her you did it?",
+                "user_id": 116.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 바로 말씀드렸지. 근데 알고 보니 그 화분이 팀장님한테 정말 의미 있는 거였더라고. 대체할 수 없는 추억이 담긴 물건이래.",
+                "utter": "Yes but there is no way to replace that statue. It was a sentimental object for her",
+                "user_id": 7.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아이고, 많이 당황스러웠겠다. 팀장님 반응은 어떠셨어?",
+                "utter": "Ugh_comma_ I'm sure that was hard. I'm sorry you had to go through that.",
+                "user_id": 116.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "표정을 보니 많이 실망하신 것 같았어. 내가 정말 미안하다고 계속 말씀드렸는데...",
+                "user_id": 7.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그래도 솔직하게 말씀드린 게 잘한 거야. 실수는 누구나 할 수 있는 거잖아.",
+                "user_id": 116.0
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "맞아. 그래도 너무 마음이 무겁고 죄송해.",
+                "user_id": 7.0
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "이해해. 근데 너무 자책하지 마. 시간이 지나면 팀장님도 이해해주실 거야. 앞으로 더 조심하면 되는 거고.",
+                "user_id": 116.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:229_conv:459",
+        "ko_situation": "우리 아이들을 처음으로 롯데월드에 데려가는 게 너무 즐거웠어! 어릴 때 자주 갔었는데, 그 경험을 아이들과 나누고 싶었어.",
+        "situation": "I remember being so excited to take our kids to Disneyland for the first time! I grew up going there_comma_ and couldn't wait to share the experience!",
+        "emotion": [
+            "excited",
+            "anticipating"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아이들을 처음으로 롯데월드에 데려간다고 생각하니 너무 설렜어요!",
+                "user_id": 66,
+                "utter": "I was soooo excited to take our kids to Disneyland for the first time!"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "와, 아이들이 정말 좋아할 거예요. 근데 요즘 입장료가 비싸요. 저는 입장료가 2만원이던 시절이 생각나네요.",
+                "user_id": 93,
+                "utter": "ooo they are gonna love it_comma_ just its expensive_comma_ I remember when it was only $20 to get in."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "저도요! 저희 할아버지 할머니가 서울에 사셔서 여름마다 거기서 지냈거든요. 매년 가장 기대되는 부분이 롯데월드로 가는 길이었어요!",
+                "user_id": 66,
+                "utter": "Same! I was excited because I grew up going there. My grandparents lived in Tucson_comma_ and we would spend the summers with them -- the most exciting part being our drive to Disneyland each year!"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "어디로 가실 건가요, 서울 아니면 부산요?",
+                "user_id": 93,
+                "utter": "Which one are you going to California or Florida ?"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "서울이요! 근본이죠 ;-) 예전의 모습도 많이 남아 있으면서도 새로운 놀이기구들도 많이 추가되었어요.",
+                "user_id": 66,
+                "utter": "California! Old school ;-) They've kept so much of the original_comma_ while adding lots of new attractions."
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "정말 기대되겠어요. 아이들도 신나게 놀 수 있을 거예요.",
+                "user_id": 93
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:1112_conv:2224",
+        "ko_situation": "딸이 처음으로 말을 했어!",
+        "situation": "My daughter said her first word!",
+        "emotion": [
+            "excited ",
+            "proud "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "헐! 대박이야. 우리 딸이 방금 처음으로 정확한 말을 했어!",
+                "utter": "My daughter said her first word a few minutes ago!",
+                "user_id": 220.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "정말? 와, 대박! 뭐라고 했는데?",
+                "utter": "what did she say?",
+                "user_id": 238.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "\"맘마\"라고 했어!",
+                "utter": "Phone!",
+                "user_id": 220.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "오, 진짜? '맘마'로 시작하는 것보니 진정한 한국인 맞네.",
+                "utter": "thats awesome",
+                "user_id": 238.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그러게ㅋㅋㅋ! 나도 깜짝 놀랐어. 밥 먹을 시간이 되니까 갑자기 \"맘마\" 하더라고.",
+                "user_id": 220.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "와... 애기가 몇 개월인데?",
+                "user_id": 238.0
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "13개월이야. 좀 늦은 편인가 했는데, 이렇게 또렷하게 말할 줄이야.",
+                "user_id": 220.0
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "아니야, 적당한 시기야. 첫 마디가 '맘마'라니, 넘 귀엽다.",
+                "user_id": 238.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:46_conv:92",
+        "ko_situation": "오늘 내 생일이야. 누가 축하 메시지 보낼 지, 무슨 선물을 받을 지 기대돼.",
+        "situation": "Today is my birthday. I can't wait to see who calls me. Or my gifts.",
+        "emotion": [
+            "excited",
+            "anticipating"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "오늘 내 생일이야! 서른넷 됐어!",
+                "utter": "Today is my birthday! I am 34!",
+                "user_id": 27.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "생일 축하해!!!! 오늘 뭐 할 거야?",
+                "utter": "Happy Birthday!!!! What are you going to do for it? ",
+                "user_id": 11.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "평일이라 오늘은 조용히 보내고, 주말에 친구들이랑 술자리 가질까 해. 지금은 카톡 축하 메시지만 기다리는 중.",
+                "utter": "Nothing today since its Thursday_comma_ hopefully I can bar hop this weekend. Waiting for gifts today.",
+                "user_id": 27.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아, 그렇구나. 생일을 2번 즐길 수 있네! 그럼  지금 카톡 알림음 들릴 때마다 설레겠다.ㅎㅎ 그나저나 아침에 미역국은 먹었어?",
+                "utter": "I hope you get lots and lots! ",
+                "user_id": 11.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "아직인데, 오늘 이따 회사 구내식당에서 마침 미역국이 나오더라고.",
+                "utter": "me too. I love goodies.",
+                "user_id": 27.0
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "회사에서 챙겨주는 것 같네! 기분 좋겠다. 다시 한 번 축하하고 생일 잘 보내~",
+                "user_id": 11.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:650_conv:1300",
+        "ko_situation": "조상님이 도와주지 않았다면 그 중요한 시험을 통과한다는 확신 없었을 거야!",
+        "situation": "I prayed_comma_ and prayed for weeks that I would do good in a test. Luckily God answered my prayers_comma_ and I passed!",
+        "emotion": [
+            "faithful",
+            "excited"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "기도를 하지 않았다면 그 중요한 시험을 통과한다는 확신 없었을 거야!",
+                "user_id": 190,
+                "utter": "Without prayer_comma_ I don't know if I would have passed that important test!"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "그래? 어떤 수업이었는데?",
+                "user_id": 119,
+                "utter": "That's cool.  For what class"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "수학 시험이었어. 항상 어렵게 느껴졌는데, 조상님이 가능하게 해주셨어!",
+                "user_id": 190,
+                "utter": "It was a test in Numeracy_comma_ so counting 1 - 100. I've always found that difficult_comma_ but god made it possible!"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "평소에 제사를 열심히 지냈나 보네. 그런 생각까지 할 정도면!",
+                "user_id": 119,
+                "utter": "God works in mysterious ways"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아, 그 덕분에 시험을 통과할 수 있었어. 진짜 감사해.",
+                "user_id": 190
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그렇게 힘들었던 시험을 잘 치르고 나니 정말 뿌듯하겠어.",
+                "user_id": 119
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:292_conv:585",
+        "ko_situation": "남편은 뱃사람이야. 그래서 많은 시간을 떨어져 있어야 해. 그럼에도 불구하고 우리는 서로를 위로하고 얼마나 사랑하는지를 보여주기 위해 최선을 다해.",
+        "situation": "My husband is an over the road truck driver and we have to spend a lot of time apart. Despite this_comma_ we always make the best effort to comfort each other and sow how much we love one another.",
+        "emotion": [
+            "faithful",
+            "lonely"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "우리 남편이 원양어선에서 일하는데, 그래서 자주 보기가 힘들어.",
+                "utter": "My husband is an over the road truck driver and I dont get to see him a lot.",
+                "user_id": 120.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "그렇구나. 사랑하는 사람과 떨어져 있어서 많이 힘들겠다. 얼마나 자주 만나?",
+                "utter": "I'm sorry to hear that.  It must be difficult to be away from the one you love.",
+                "user_id": 114.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "1년에 3-4개월 정도? 그래도 연락은 자주 하려고 노력해.",
+                "utter": "Yes. We have been blessed to be able to comfort each other through the tough times.",
+                "user_id": 120.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "와, 정말 쉽지 않겠어. 그래도 서로 믿고 기다리는 모습이 멋지다.",
+                "utter": "I'm glad to hear that.  I wish you continued love and success with your marriage.  It's a rare gift to have these days.",
+                "user_id": 114.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:979_conv:1959",
+        "ko_situation": "롯데리아에 가고 싶었지만, 나는 원래 맘스터치를 좋아해서 배가 고팠어도 가지 않았어.",
+        "situation": "I wanted to go to mcdonalds but i know that i am a wendy's guy _comma_ so i decided against it even though i was starving",
+        "emotion": [
+            "faithful",
+            "content "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "차라리 굶을지언정 롯데리아는 안 갈 거야.",
+                "utter": "i would rather starve than eat mcdonalds",
+                "user_id": 271.0
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "왜? 롯데리아 싫어해?",
+                "utter": "tell me more about this",
+                "user_id": 270.0
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 난 맘스터치파야. 맘스터치가 훨씬 맛있더라고.",
+                "utter": "i am a wendy's guy_comma_ i find their food much more satisfying",
+                "user_id": 271.0
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아, 그래? 맘스터치 치킨버거 맛있긴 하지.",
+                "utter": "but i would less satisfied",
+                "user_id": 270.0
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아. 패티도 더 두껍고 소스도 맛있잖아. 가성비도 좋고.",
+                "utter": "oh thats for sure",
+                "user_id": 271.0
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:856_conv:1712",
+        "ko_situation": "머드 축제에서 쓰려고 바깥 건조대에 수건을 여러 개 걸어 놨는데, 집에 폰 두고 와서 다시 갔더니 누가 전부 가져갔어.",
+        "situation": "I was going to a halloween party and sat out a bowl of candy for the kids_comma_ the first person by took the entire bowl of candy.",
+        "emotion": [
+            "furious",
+            "disappointed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "머드 축제에서 쓰려고 바깥 건조대에 수건을 여러 개 걸어 놨는데, 집에 폰 두고 와서 다시 갔더니 누가 전부 가져갔더라.",
+                "utter": "I was going to a halloweed party... so I left out a big bowl of candy for the kids.    I accidently left my phone at my house and when I went back for it I had found that within 5 minutes someone had taken the entire bowl of candy.",
+                "user_id": 244
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아, 요즘 애들은 그런 비매너 행동 안 하는 줄 알았는데.",
+                "utter": "Oh no. I thought kids didn't do that anymore",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "맞아. 그래서 이제는 밖에 수건 안 놔둬.",
+                "utter": "Yep.... I don't bother putting out candy anymore. ",
+                "user_id": 244
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "누가 그랬는지 모르겠네.",
+                "utter": "They ruined it for you. Halloween is my favorite holiday",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "나도 머드 축제 정말 좋아해. 가면 아직도 흙 던지고 놀아?",
+                "utter": "Its one of my favorites too.  Do you still dress up?",
+                "user_id": 244
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "응. 작년에는 애들이랑 다 같이 처절한 진흙 싸움을 벌였어.",
+                "utter": "Yep. I do a theme with my kids. Were were all comic villains last year",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "그때도 애들 수건이 다 없어졌다 하지 않았어? 네가 다 가져간 건 아니지?",
+                "utter": "You didn't steal an entire bowl of candy someone left infront of their house did you? ",
+                "user_id": 244
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "설마 그랬겠어...? ㅋㅋ 대체 누가 가져간 걸까?",
+                "utter": "",
+                "user_id": 27
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:42_conv:85",
+        "ko_situation": "도와주기로 한 친구에게 너무 화가 나.",
+        "situation": "i am angry against a friend that suppose to help me.",
+        "emotion": [
+            "furious",
+            "disappointed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아 진짜... 나 도와주기로 한 친구 때문에 너무 화나.",
+                "utter": "i am angry against a friend that suppose to help me.",
+                "user_id": 7
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "어머, 무슨 일 있었어? 뭘 도와주기로 했는데?",
+                "utter": "That sucks... what was he or she supposed to help you with? ",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "TV 벽에 설치하려고 했거든. 근데 친구가 안 오고 폰까지 꺼놨더라고. 나는 항상 걔 부탁하면 도와줬는데...",
+                "utter": "I wanted to wall mount my TV but my friend didn't come and turned off his cell phone. I was always helping him for anything.",
+                "user_id": 7
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아, 그랬구나. 많이 속상하겠다. 그 친구랑 연락이 아예 안 되는 거야?",
+                "utter": "Well I hope you two can talk it out_comma_ express your feelings and work it out together! Friendship is hard to come by these days... ",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "응, 폰도 꺼져있고 카톡도 안 읽어. 진짜 짜증나.",
+                "user_id": 7
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그렇구나. 혹시 그 친구에게 무슨 일 생긴 건 아닐까? 보통 때랑은 많이 다른 것 같네.",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "글쎄... 그럴 수도 있겠다. 근데 그래도 연락 한 번 해주지 그랬나 싶어.",
+                "user_id": 7
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "맞아. 나중에 연락 되면 무슨 일 있었는지 물어보는 게 좋겠어. 그리고 TV 설치는 어떻게 할 거야? 혹시 내가 도와줄 수 있는 거 있으면 말해줘.",
+                "user_id": 11
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:2005_conv:4011",
+        "ko_situation": "일하면서 스트레스 받는 하루를 보낸 후에 차 타이어가 훼손되어 있는 것을 발견했어! 참을 수 없어서 소리 질렀어.",
+        "situation": "After a stressful day at work I found my car's tires had been slashed! I couldn't help but scream.",
+        "emotion": [
+            "furious",
+            "annoyed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "경찰이 그냥 넘어가려고 하는 게 이해가 안 돼.",
+                "user_id": 361,
+                "utter": "I'm surprised the police are going to let they get away with it."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "혹시 의심가는 사람이 있어?",
+                "user_id": 360,
+                "utter": "Did you have an enemy or someone as a suspect?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "사실.. 쿠팡 기사님이 화난 것 같단말이야. 내가 자꾸 무거운 물건을 자꾸 시키니까.",
+                "user_id": 361,
+                "utter": "I think the mailman might be mad at me because I keep ordering heavy items."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "씁.. 좀 이상한데? 인간적으로 자기 일만 하고 네 차에 손대지 말아야지.",
+                "user_id": 360,
+                "utter": "Weird reaction. I feel like he should just do his job and not key your car."
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아, 정말 화가 나. 그래도 증거가 없으니 할 수 있는 게 없어.",
+                "user_id": 361
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "진짜 답답하겠다. 그래도 상황을 꾸준히 잘 살펴봐야겠어.",
+                "user_id": 360
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:67_conv:134",
+        "ko_situation": "생일에 엄마가 방문해 주셨을 때 감사했어요.",
+        "situation": "I was grateful when my mother visited me for my birthday.",
+        "emotion": [
+            "grateful",
+            "joyful"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "있잖아, 어제 내 생일이었는데 엄마가 갑자기 우리 집에 오셔서 깜짝 놀랐어.",
+                "utter": "It was my birthday and my mother came to surprise me.",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "헐, 진짜 감동이다. 오시는 지 전혀 몰랐던 거야? 독립해서 살고 있구나.",
+                "utter": "Aw thats so nice_comma_ how did she surprise you? ",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응! 정말 몰랐었어. 그리고 엄마가 직접 만드신 케이크랑 미역국 들고 오셨거든?! 아침 일찍부터 준비하셨대. 완전 감동이잖아.",
+                "utter": "She showed up to my house and brought me a cake.",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "우와, 직접 케이크랑 미역국까지 만들어 오셨다니! 엄마의 사랑이 듬뿍 느껴졌겠어. :)",
+                "utter": "Cakes! yessss winning. :) ",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아. 진짜 감동이었어. 나 혼자 조용히 보내려고 했는데, 엄마 덕분에 특별한 날이 됐어.",
+                "user_id": 4
+            }
+        ]
+    },
+    
+    {
+        "conv_id": "hit:225_conv:450",
+        "ko_situation": "작년 태풍 힌남노가 올라오는 동안, 방수포, 물, 배터리 및 기타 물품들이 다 팔렸어요. 태풍 오기 전 일주일 동안 필요한 물품을 모았어요.",
+        "situation": "During Hurricane Irma last year_comma_ tarps_comma_ water_comma_ batteries and other supplies sold out way ahead of the storm. I managed to gather the things we needed over the course of the next week_comma_ ahead of the storm.",
+        "emotion": [
+            "grateful",
+            "apprehensive "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "작년에 태풍 힌남노 왔을 때 진짜 힘들었어. 뉴스 보니까 남부지방 피해가 엄청나던데…",
+                "utter": "Last year_comma_ we had a trying experience during Hurricane Irma_comma_ but came out OK.",
+                "user_id": 95
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "맞아, 그때 그랬었던 것 같아. 너네는 괜찮았어?",
+                "utter": "That must have been terrible. Were you okay?",
+                "user_id": 59
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "처음에는 보호 물품도 없고 정말 막막했는데, 다행히 잘 넘겼어. 그때 이웃들이랑 서로 도와가면서 견뎌낸 게 큰 힘이 됐어.",
+                "utter": "At first_comma_ there were no supplies. But yes_comma_ we ended up OK.",
+                "user_id": 95
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "상상만 해도 아찔하다. 무사해서 정말 다행이야. 재난 상황에서는 이웃 간의 유대감이 무엇보다 중요하니까. 서로 의지할 수 있어서 정말 다행이었네.",
+                "utter": "I can imagine it must have been very distressing. Glad that you were OK.",
+                "user_id": 59
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "고마워. 너도 그 때 태풍 피해 없이 잘 지냈지?",
+                "utter": "Thanks.",
+                "user_id": 95
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "응, 다행히 큰 피해는 없었어. 앞으로는 그런 큰 태풍이 안 왔으면 좋겠다.",
+                "utter": "",
+                "user_id": 59
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:384_conv:769",
+        "ko_situation": "오늘 카카오 택시를 탔는데 사고가 났어요. 그래도 다친 사람이 없어서 다행이에요!",
+        "situation": "Today_comma_ I was in an Uber and we got in an accident. I'm happy that no one was hurt!",
+        "emotion": [
+            "grateful",
+            "anxious"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "오늘 낮에 카카오택시 타고 가다가 사고 났어. 다친 사람 없어서 정말 다행이야!",
+                "utter": "During the day today_comma_ I was in an Uber when it crashed. I'm just thankful no one was hurt!",
+                "user_id": 137
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "세상에, 무서웠겠다. 너가 괜찮아서 다행이야. 기사 잘못이었어?",
+                "utter": "Oh my! That is so scary. Thank goodness you are ok. Was it the Uber driver's fault?",
+                "user_id": 131
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "양쪽 운전자 다 잘못이었어. 둘 다 주의했어야 했는데. 큰일 날 뻔했지.",
+                "utter": "It was both drivers faults. They should have both paid attention. It could have been worse though.",
+                "user_id": 137
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그러게. 그래도 며칠 동안 경과 지켜보고 아프면 병원 꼭 가봐.",
+                "utter": "Absolutely. Knock on wood_comma_ I've still never been in a car crash. Make sure you go to the doctor if you have any pain over the next couple of days.",
+                "user_id": 131
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:18_conv:36",
+        "ko_situation": "할머니가 여동생에게 준 작은 도자기를 깨뜨렸어요.",
+        "situation": "I broke a statuette offered by grandmother to my sister.",
+        "emotion": [
+            "guilty",
+            "anxious"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "안녕, 나 큰일 났어. 할머니가 여동생에게 주신 도자기를 깨트렸어. 여동생에게는 정말 소중한 물건이었는데...",
+                "utter": "Hi_comma_ I broke a statuette offered by grandmother to my sister. It was a very important object for my sister.",
+                "user_id": 7
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아이고, 그랬구나. 너도 많이 당황스러웠겠다. 혹시 같은 종류의 도자기를 가게에서 사서 대신해 주는 건 어때?",
+                "utter": "Is it not better you replace it with same type of statuette_comma_at a grocery store?",
+                "user_id": 25
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "아니, 그건 불가능해. 증조할머니가 주신 오래된 도자기거든.",
+                "utter": "No_comma_ it is not possible. It is old statuette given by the mother of my grandmother.",
+                "user_id": 7
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아... 진짜 어떡하지. 진짜 귀중한 물건이었구나. 그럼 이렇게 해보는 건 어때? 할머니께 상황을 설명드리고 조언을 구해보는 거야. 혹시 할머니께서 방법을 알고 계실지도 모르잖아.",
+                "utter": "The mother of your grand mother _comma_that means your great grand mother ! Well you can search through her archives",
+                "user_id": 25
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그러네... 할머니께 여쭤보는 게 좋겠다. 근데 너무 죄송스러워서 어떻게 말씀드려야 할지 모르겠어.",
+                "user_id": 7
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "알아, 쉽지 않을 거야. 하지만 솔직하게 상황을 설명하고 도움을 요청하는 게 가장 좋은 방법일 것 같아. 할머니께서 이해해 주실 거야. 용기 내서 한번 해봐.",
+                "user_id": 25
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "네 말이 맞아. 고마워. 할머니께 연락드려볼게. 마음이 무겁다.",
+                "user_id": 7
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "힘내. 실수는 누구나 할 수 있는 거잖아. 중요한 건 그 후의 대처야. 할머니와 여동생에게 진심으로 사과하고, 할 수 있는 최선을 다하면 돼. 응원할게!",
+                "user_id": 25
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:361_conv:723",
+        "ko_situation": "한 번은 친구의 냉장고에서 막걸리를 가져갔어요. 별일 아니라고 생각했는데 친구가 그것을 얻으려고 남쪽으로 5시간 동안 운전했다는 것을 알게 되었어요. 그것들이 매우 비쌌어요. 그 후 정말 미안했어요.",
+        "situation": "One time I took my friend's cream soda from the fridge.  I didn't think it was a big deal until I found out he had driven 5 hours up North just to get them and they were very expensive.  I felt pretty bad after that",
+        "emotion": [
+            "guilty",
+            "grateful"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "술에 취해서 냉장고에 있던 친구의 마지막 수제 막걸리를 마셔버렸어. 별일 아니라고 생각했는데, 친구가 그 막걸리 사려고 5시간이나 운전해서 갔다고 하더라고. 비싸기도 했고. 미안해서 곱창 사줬어.",
+                "utter": "I took the last cream soda from a pack that belonged to my buddy from the fridge when I was drunk. Didn't think it was a big deal until he told me he drove 5 hours just to get them and they were expensive. I felt kind of bad so I bought him a happy meal ",
+                "user_id": 119
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "곱창으로 괜찮아 했어?",
+                "utter": "Was he okay with the happy meal?",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응.",
+                "utter": "Yes",
+                "user_id": 119
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "다행이네! 친구가 이해해줘서 정말 다행이야. 앞으로는 조심해야겠다, 그치?",
+                "utter": "That's good to hear!",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아. 정말 미안했어. 다음부턴 이런 실수 안 하도록 조심해야지.",
+                "user_id": 119
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그래, 그렇게 하면 돼. 우정도 지키고 좋은 경험이 됐네.",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "맞아. 고마워, 들어줘서.",
+                "user_id": 119
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "천만에. 친구 사이에 이해와 용서가 중요한 거지. 앞으로도 잘 지내!",
+                "user_id": 1
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:15_conv:31",
+        "ko_situation": "결혼한 지 4주 만에 남편이 바람을 피우는 것을 알게 된 후 저도 그에게 똑같이 했어요. 결혼 전뿐만 아니라 그 후에도 그녀에게 성관계를 요구하는 문자를 발견했어요. 더 최악인 것은 제가 그의 가까운 친구와 잤어요.",
+        "situation": "After learning my husband of only 4 weeks was cheating on me I did the same to him. Not only was it before our marriage but I had found texts of him contacting her for sex after. To make it worse I slept with a close family friend of his.",
+        "emotion": [
+            "guilty",
+            "anxious"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "나 요즘 너무 힘들어. 결혼한 지 한 달도 안 됐을 때 남편이 바람피운 거 알게 됐거든. 순간 화가 나서 나도 그 사람 친구랑 실수를 저질렀어. 아직도 그 일 생각하면 숨막혀.",
+                "utter": "I was only married for 4 weeks when I learned my husband was having an affair and ongoing after the wedding. I got him back by sleeping with a close family friend. I felt guilty and ashamed because it was out of character.",
+                "user_id": 22
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "세상에... 정말 힘들었겠다. 그 상황에서 네가 느꼈을 배신감과 분노 이해해. 근데 그래도 네 행동은 좀 과했어.",
+                "utter": "Yeah that sounds really sad. I am sorry for what you went through. ",
+                "user_id": 21
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "알아... 나도 그게 잘못됐다는 걸 알아. 근데 더 큰 문제는 그 일 이후로 남편한테 아무 말도 못하고 그냥 결혼 생활 유지하고 있다는 거야. 벌써 3년이나 지났어.",
+                "utter": "Well I choose to stay and work it out_comma_ but I never told him. It has been 3 years.",
+                "user_id": 22
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "3년이나? 와... 잘못된 행동임을 알면서도 그 비밀을 안고 살아가는 게 많이 힘들었겠네. 근데 솔직히 이건 좋은 해결책이 아닌 것 같아.",
+                "utter": "Yeah maybe that was a good decision that you made. ",
+                "user_id": 21
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "나도 알아. 처음엔 시간 지나면 좋아질 줄 알았는데, 난 원래 거짓말하는 성격이 아니라서 매일매일이 고통스러워.",
+                "utter": "Well I thought I would be feel better but because I am not the cheating kind_comma_ I still feel guilty.",
+                "user_id": 22
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "나 같아도 그랬을 거야. 근데 친구로서 말해주는 건데, 이대로 가면 너만 망가져. 이제라도 용기 내서 남편과 솔직하게 얘기를 해보는 게 어때?",
+                "user_id": 21
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "그게... 말처럼 쉽지가 않아. 어떻게 해야 할지 모르겠어.",
+                "user_id": 22
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "물론 쉽지 않겠지. 하지만 네 행복을 위해서라도 뭔가 변화가 필요해. 전문가 상담을 받아보는 것도 좋은 방법일 것 같아. 넌 충분히 용기 있는 사람이야. 이 상황을 극복할 수 있을 거야.",
+                "user_id": 21
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:53_conv:107",
+        "ko_situation": "언젠가 복권에 당첨되면 좋겠어. 가능할까?",
+        "situation": "I really want to win the lottery someday_comma_ maybe i will?",
+        "emotion": [
+            "hopeful",
+            "excited "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "좀 웃길 수도 있는데, 나중에 난 꼭 로또 당첨될 거야.",
+                "utter": "So this is going to sound crazy but_comma_ one day I am going to win the lottery.",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "그래? 로또 당첨? 그럼 좋지! 당첨되면 뭐 할 거야?",
+                "utter": "That would pretty amazing. What will you do with the winning?",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "음... 일단 대출금 다 갚고, 서울에 집 살 거야! 너는 당첨되면 뭐 하고 싶어?",
+                "utter": "Pay off my debts from moving number 1_comma_ and then buy a house! What would you do with the money?",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "나도 비슷해. 부모님 빚 다 갚고, 집도 사고 싶어. 그게 제일 먼저 할 일일 것 같아.",
+                "utter": "I think the same really. Making sure everything is paid off_comma_ having a roof over your head_comma_ etc... is what most people would want to take caer of first.",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아, 현실적으로 그게 가장 중요하지. 그래도 꿈꾸는 건 좋은 거 같아.",
+                "utter": "",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그러게. 상상만 해도 기분 좋다. 우리 둘 다 당첨되면 좋겠다!",
+                "utter": "",
+                "user_id": 1
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:1789_conv:3579",
+        "ko_situation": "남쪽 동네에 가서 내가 좋아하는 테이크아웃 음식을 먹을 생각에 설레.",
+        "situation": "that I'll get to visit the south side and eat my favorite take out",
+        "emotion": [
+            "hopeful",
+            "excited"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "부산 쪽으로 내려가서 내가 좋아하는 음식을 포장해 오는 게 너무 기대돼. 여기서는 찾을 수가 없어.",
+                "user_id": 188,
+                "utter": "I can't wait to travel south to get my favorite take out. Can't find it here."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "헐. 꽤 먼 거리인데! 얼마나 걸려?",
+                "user_id": 59,
+                "utter": "That is a very long drive! How long will it take to get there?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "한 시간쯤 걸릴 것 같아. 그래도 그만한 가치가 있어.",
+                "user_id": 188,
+                "utter": "About an hour. But it'll be worth it."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그렇게 멀리까지 갈 정도면 정말 맛있나 보네!",
+                "user_id": 59,
+                "utter": "It must be very good_comma_ if you're willing to go that far!"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그럼! 정말 특별한 맛이거든. 그 음식을 먹으면 모든 피로가 싹 풀리는 느낌이야.",
+                "user_id": 188
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그 맛이 정말 궁금하네! 나중에 기회 되면 나도 꼭 가봐야겠어.",
+                "user_id": 59
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:759_conv:1519",
+        "ko_situation": "오늘 드디어 처서가 지나더니 건조한 날씨가 되었어. 이번 주 내내 건조하고 맑고 바람이 불었으면 좋겠어!",
+        "situation": "I'm glad we finally got some dry weather today. I need it to stay dry_comma_ sunny and breezy for the whole week!",
+        "emotion": [
+            "hopeful",
+            "excited"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "오늘 날씨 봤어? 드디어 건조해졌더라. 이번 주 내내 이렇게 맑고 바람 불었으면 좋겠다.",
+                "utter": "I want dry_comma_ breezy_comma_ and sunny weather the whole week dang it",
+                "user_id": 119
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "어, 그러게. 근데 어디 가기로 계획했어?",
+                "utter": "Where can you get that kind of weather.",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "우리 집에서 45분 거리에 있는 해운대 해변이지! 백사장도 멋지고, 풍경도 끝내주고, 게다가 술도 싸.",
+                "utter": "45 min from where I live...South Padre Island_comma_ white sand gorgeous girls and cheap liquor",
+                "user_id": 119
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "오, 저렴한 술이라고? 내 취향인데? 우리 같이 갈래?",
+                "utter": "You had me at cheap liquor",
+                "user_id": 27
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:381_conv:762",
+        "ko_situation": "오늘 지역 박물관에 갔는데, 거기에 조선시대 유물이 전시되어 있었어. 유물들이 정말 놀라웠어!",
+        "situation": "I went to the local art museum today and there were mummies on display. The artifacts are amazing!",
+        "emotion": [
+            "impressed",
+            "excited "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "우리 동네 박물관에 있는 전시물 봤어? 진짜 멋지더라. 심지어 조선시대 유물도 있었어!",
+                "utter": "The mummies at my local art museum are amazing! One that I saw was from the Roman Era.",
+                "user_id": 130
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "그래? 조선시대면 꽤 오래됐네. 근데 유물로 치면 그렇게 오래된 건 아니긴 해.",
+                "utter": "Wow that really old but not too old for mummies considering.",
+                "user_id": 63
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "아, 그렇구나. 난 그렇게 오랜 시간 동안 사용됐다는 걸 몰랐어.",
+                "utter": "Right. I had no idea their usage stretched such a long time period.",
+                "user_id": 130
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "하하, 그래도 실제로 보면 정말 더 멋지겠다. 전시는 어땠어?",
+                "utter": "Haha yea seems like it would be really cool to see in person.",
+                "user_id": 63
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "응, 전시가 정말 잘 되어 있었어. 유물마다 설명도 자세하고, 당시 생활상을 잘 보여주더라고.",
+                "utter": "Their display were pretty neat.",
+                "user_id": 130
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:659_conv:1319",
+        "ko_situation": "이중섭의 초기 작품들을 살펴보다가 그의 천재성과 창의력에 감탄했어.",
+        "situation": "I was looking into the early works of da Vinci. I have to say_comma_ the genius and inventive mind of such a great individual is quite breathtaking.",
+        "emotion": [
+            "impressed",
+            "sentimental"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": " 와... 오늘 미술관에서 이중섭 초기 작품들 봤는데, 진짜 대단하더라.",
+                "utter": "I was looking into the early works of da Vinci.",
+                "user_id": 187
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "이중섭 화가? 어떤 작품들 봤는데?",
+                "utter": "What works in particular?",
+                "user_id": 190
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "황소' 봤어! 그 강렬한 에너지가 그대로 느껴지는 게... 진짜 감동이었어.",
+                "utter": "The Caesarean womb section. I have to say_comma_ the genius and inventive mind of such a great individual is quite breataking.",
+                "user_id": 187
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "나도 동감해. 나도 이중섭 작품 중에 '황소' 제일 좋아해.",
+                "utter": "I agree wholly_comma_ quite an impeccable spectrum. I read online on 4chan that da Vinci was likely an alien from the future.",
+                "user_id": 190
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그치? 단순한 선으로 그렸는데도 뭔가 엄청난 힘이 느껴지지 않아? 역시 천재는 다르다니까.",
+                "utter": "",
+                "user_id": 187
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "맞아. 이중섭 그림 보면 뭔가 슬픔 같은 게 느껴지기도 하고.",
+                "utter": "",
+                "user_id": 190
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "응, 그의 삶 자체가 녹아있는 것 같아. 천재적인 재능을 가졌지만, 기구한 삶을 살았잖아.",
+                "utter": "",
+                "user_id": 187
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "그래서 더 기억에 남는 화가인 것 같아.",
+                "utter": "",
+                "user_id": 190
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:325_conv:650",
+        "ko_situation": "영화 '기생충'을 정말 재미있게 봤어.",
+        "situation": "I really enjoyed the movie_comma_ A Bugs Life.",
+        "emotion": [
+            "impressed",
+            "excited "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "야, 나 '기생충' 영화가 내 인생 영화 중 하나야.",
+                "utter": "I really like the movie_comma_ A Bugs Life.",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아, 그래? 나 그 영화 예전에 봤었어.",
+                "utter": "I saw that movie a long time ago.",
+                "user_id": 119
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 나도 봤을 때 내내 긴장하고 웃으면서 봤어. 너무 재밌었어.",
+                "utter": "Yes. I laughed the whole time.",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "맞아, 정말 명작이지. 근데 너는 어떤 장면이 제일 좋았어?",
+                "utter": "What was your favorite part",
+                "user_id": 119
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:135_conv:271",
+        "ko_situation": "시누이는 시어머니에게 의지하며 살고, 아이들은 뭐든 다 받아. 우리 아이들은 우리가 돈이 있어서 그런지 거의 아무것도 못 받아서 좀 섭섭해.",
+        "situation": "My sister in law basically lives off of my mother in law and her kids get everything. My mother in law rarely gives our kids anything because we have the money to do it ourselves - and I get a bit miffed at times.",
+        "emotion": [
+            "jealous",
+            "angry"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "우리 시누이 봐. 시어머니한테 붙어서 살면서 온갖 혜택 다 받아가. 근데 우리 애들한테는 거의 아무것도 안 주셔. 우리가 돈 있다고. 진짜 짜증 나.",
+                "utter": "My sister in law basically lives off of my mother in law and her kids get everything. My mother in law rarely gives our kids anything because we have the money to do it ourselves - and I get a bit miffed at times.",
+                "user_id": 56
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아, 그 심정 이해해. 우리 시어머니도 편애가 심해서 나도 비슷한 경험 있어.",
+                "utter": "I know that feeling too_comma_ at least somewhat. Seems like clear favoritism to me_comma_ but maybe I'm wrong.",
+                "user_id": 55
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "시어머니가 '내가 안 사주면 걔네는 못 가지잖아'라고 하시면서 가엾게 여기시는데, 웃긴 건 시누이도 돈이 있어. 그냥 돈 쓰기 싫고, 애들 키우기 귀찮아서 그러는 거지.",
+                "utter": "She always says \"If I didn't buy it for them_comma_ they wouldn't have it\". But it's a bit ridiculous because my sister in law DOES have the money_comma_ she just refuses to raise her own children.",
+                "user_id": 56
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그런 얘기 들으면 정말 화나겠다. 편애도 정도가 있지. 게다가 위선적이기까지 하네. 시누이는 정작 애들한테 신경도 안 쓰면서.",
+                "utter": "That type of stuff always makes me so angry_comma_ since it's so clearly favoritism and hypocrisy and they just don't care one bit.",
+                "user_id": 55
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아. 결국 우리 애들이 차별받는 게 가장 속상해.",
+                "user_id": 56
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그 마음 이해해. 근데 너무 스트레스 받지 마. 우리가 잘 키우면 되는 거야. 오히려 우리 애들이 더 건강하게 자랄 수 있을 거야.",
+                "user_id": 55
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "그렇게 생각하니까 좀 위안이 되네. 고마워.",
+                "user_id": 56
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "그래, 힘내. 필요하면 언제든 연락해. 같이 얘기라도 하면 스트레스 좀 풀리지 않을까?",
+                "user_id": 55
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:718_conv:1437",
+        "ko_situation": "다들 나보다 더 좋은 차를 가지고 있어. 너무 짜증 나.",
+        "situation": "Everyone has a better car than I do. it makes me sick",
+        "emotion": [
+            "jealous",
+            "annoyed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "주변 사람들 다 나보다 좋은 차 타고 다녀. 진짜 짜증 나.",
+                "utter": "I find myself of people with nice cars lately.",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "차에 관심이 많아?",
+                "utter": "That is good_comma_ do you like nice cars?",
+                "user_id": 126
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "아, 맞다. 질투 난다고 말하는 걸 깜빡했네. 내 차가 고장 나서 어디 가려면 맨날 다른 사람 차 얻어 타야 돼. 그래서 좋은 차만 보면 짜증부터 나.",
+                "utter": "I forgot tosay jealous. oops. my car quit and i have to catch rides everywhere nic cars upset me now.",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아... 그렇구나. 차 문제 때문에 고생 많겠다. 정말 안타깝다. 근데 너무 낙심하지 마. 언젠가는 넌 분명 좋은 차를 가질 수 있을 거야.",
+                "utter": "I am sorry about your car trouble_comma_ good luck with that.",
+                "user_id": 126
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "고마워. 근데 언제 그럴 수 있을지 모르겠어. 지금은 차 살 여유가 전혀 없거든.",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "지금은 힘들어도 시간이 지나면 상황이 나아질 거야. 그때까지 돈을 조금씩 모아보는 건 어때? 작은 금액이라도 꾸준히 모으다 보면 도움이 될 거야.",
+                "user_id": 126
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:394_conv:788",
+        "ko_situation": "내 올케는 절대 아이를 가지면 안 되는 사람인데, 임신에 아무 문제가 없었어. 우리 부부는 4년이 걸렸는데.",
+        "situation": "My sister in law_comma_ who should never have children_comma_ had no problems getting pregnant. It took us 4 years.",
+        "emotion": [
+            "jealous",
+            "anxious "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "우리 부부는 4년이나 걸려서 겨우 아이를 가졌는데, 내 올케는 쉽게 임신했어. 근데 올케는 아이를 제대로 못 돌볼 것 같은데.",
+                "utter": "My sister in law should have never had children. Yet she was able to get pregnant right away.",
+                "user_id": 56
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "그런 상황이 있었구나. 많이 힘들었겠다. 근데 왜 올케가 아이를 잘 돌보지 못할 거라고 생각해?",
+                "utter": "Never had children as in infertile or a bad person?",
+                "user_id": 63
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "올케는 아이들에게 관심이 없어 보여. 그냥 자신을 꾸미는 액세서리처럼 대하는 것 같아. 반면에 우리는 정말 열심히 아이들을 돌보고 있어.",
+                "utter": "No_comma_ she just doesn't care for them. They are an accessory to her. It took us 4 years to get pg. and my children are well taken care of",
+                "user_id": 56
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그렇구나. 네 마음이 많이 복잡하겠어. 하지만 사람은 변할 수 있어. 어쩌면 아이를 낳고 나면 올케의 마음도 달라질지 모르잖아?",
+                "utter": "Thats terrible_comma_ I hope they grow up fine_comma_ would be horrid if they didnt.",
+                "user_id": 63
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:14_conv:29",
+        "ko_situation": "새 집으로 이사했을 때 너무 행복했어요. 여자친구와 함께 오랫동안 저축했고, 마침내 지난달에 계약했어요. 이제 우리의 인생 계획을 실행할 수 있어요.",
+        "situation": "I was so happy when I moved in to my new home. My girlfriend and I have been saving for awhile and we finally got the keys last month. Now we can finally move on with our life plans.",
+        "emotion": [
+            "joyful",
+            "excited"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "요즘 새 집 꾸미느라 정신없어. 근데 진짜 재밌더라.",
+                "utter": "Planning out my new home has turned out to be a blast!",
+                "user_id": 20
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "오, 새로 집 샀어? 축하해! 어느 동네로 이사갔어?",
+                "utter": "What kind of house are you building?",
+                "user_id": 19
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "강남 신축 아파트로 청약 당첨되서 이사 왔어! 집은 다 지어졌고, 지금은 인테리어하고 가전제품 배치하는 거 계획 중이야.",
+                "utter": "I just moved in so it is already built. Just working on planning out decorating and appliances and such.",
+                "user_id": 20
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "우와, 청약 로또보다 더 어렵다던데!! 진짜 좋겠다! 평수는 얼마나 돼?",
+                "utter": "That sounds great. What are you most excited for?",
+                "user_id": 19
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "33평이야. 이전 집보다 훨씬 넓어져서 거실이 특히 마음에 들어. 이제 친구들 초대해도 여유롭게 앉을 수 있을 것 같아.",
+                "utter": "I think I am most excited for all the space I have. I can have friends over and not feel cramped.",
+                "user_id": 20
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "너무 좋겠다. 나중에 완성되면, 꼭 연락해. 집투어 시켜줘. 근데 인테리어는 어떤 스타일로 할 거야?",
+                "user_id": 19
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:138_conv:277",
+        "ko_situation": "지난 학기에 모든 수업을 좋은 성적을 받았어요. 한동안 대학에서 엄청 고생했어요.",
+        "situation": "I passed all of my classes last semester. I had been struggling in college for a while.",
+        "emotion": [
+            "joyful",
+            "proud"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "있잖아, 한동안 대학에서 성적이 안 좋았는데, 지난 학기에 모든 수업에서 다 좋은 성적 받았어!",
+                "utter": "I had been doing poorly in college for a while.",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "와, 정말? 축하해! 한동안 고생 많이 했을 것 같은데, 결과가 좋아서 내가 다 기쁘다.",
+                "utter": "Do you study?",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "고마워. 나도 진짜 너무 기뻐. 맞아, 한동안 대학에서 엄청 고생했거든. 이제야 좀 숨을 쉴 수 있을 것 같아.",
+                "utter": "I do now. I passed all of my classes last semester_comma_ so I think I;m back on track.",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "잘됐다. 그동안 열심히 한 게 헛되지 않았네. 어느 대학 다니더라?",
+                "utter": "Thats good. Where do you go?",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "서울대야. 처음엔 적응하기가 너무 힘들었어. 주변 친구들이 다들 공부를 잘 해서 더 부담됐거든.",
+                "utter": "University of Memphis",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "아, 서울대라 경쟁이 심했겠구나. 근데 이렇게 다 극복하고 좋은성적 받았다니 정말 대단해!",
+                "user_id": 4
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:117_conv:234",
+        "ko_situation": "여름이 거의 끝나가요. 이보다 행복할 수 없어요!",
+        "situation": "The summer is almost over. I couldn't be any happier!",
+        "emotion": [
+            "joyful",
+            "anticipating"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "이야~ 이제 여름도 거의 다 끝나간다. 나 너무 행복해!",
+                "utter": "I have had enogh of this summer heat. Cmon autumn!",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "헐, 완전 공감. 나도 가을이 더더 빨리 찾아왔으면 좋겠어.",
+                "utter": "I agree. I love autumn.",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "나 대구에 사는데, 너도 알지? 특히 대구는 여름에 진짜 더운거. 우리 딸도 에어컨 빵빵한 학교 다시 가고 싶어 해ㅋㅋㅋ.",
+                "utter": "It gets do hot in memphis. My daughter is ready for school to start back anyway_comma_",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "맞아, 대구 여름 유명하지. 가을되면 대구도 살만해지지?",
+                "utter": "I love Memphis.",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아. 여름만 아니면 대구가 정말 살기 좋은 도시야. 가을에는 팔공산 단풍도 예쁘고.",
+                "utter": "Me too! Been here all of my life.",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "오, 팔공산 단풍 유명하던데. 올해는 나도 한번 가보고 싶다~",
+                "utter": "",
+                "user_id": 4
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:71_conv:142",
+        "ko_situation": "5년째 나이 드신 엄마를 돌보고 있어서 친구가 거의 없어요. 엄마를 돌보느라 시간을 많이 썼어요.",
+        "situation": "I've been taking care of my aging mom for 5 years now and don't really have any friends_comma_ since so much time is used taking care of her.",
+        "emotion": [
+            "lonely",
+            "apprehensive"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "나 5년째 연로하신 엄마를 돌보고 있는데, 그래서 친구도 별로 없어. 엄마 돌보는 데 너무 많은 시간을 쓰다 보니까.",
+                "utter": "I've been taking care of my aging mom for 5 years now and don't really have any friends_comma_ since so much time is used taking care of her.",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "와, 정말 대단하다. 그렇게 오랫동안 엄마를 위해 헌신하고 있다니 정말 멋져. 근데 너도 쉬어야 할 것 같은데... 일주일에 몇 시간이라도 도와줄 사람을 구하거나, 헬스장이나 요가 클래스에 다녀보는 건 어때?",
+                "utter": "That is a nice thing you are doing for her though. Maybe you could hire somebody for a few hours a week and join a gym or yoga class.",
+                "user_id": 40
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "고마워. 근데 외부 도움을 받을 형편은 안 돼. 그래도 집에서 운동은 조금씩 시작했어.",
+                "utter": "Thank you. Can't afford outside help unfortunatley. Yes. I have picked up exercising though.",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아, 그렇구나. 그럼 혹시 엄마를 돌보는 데 도움을 줄 수 있는 지역 지원 프로그램이나 자원봉사자를 찾아보는 건 어때? 우리 동네에도 그런 프로그램들이 있더라고. 필요하다면 내가 같이 찾아봐줄 수 있어.",
+                "utter": "Go to a walking path or park. Maybe to a dog park also.",
+                "user_id": 40
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "정말? 그런 게 있어? 난 몰랐네... 그럼 좀 알아보는 거 도와줄 수 있어?",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그럼! 내일 구청이랑 주민센터에 전화해서 물어볼게. 아, 그리고 간병인 교육 받은 대학생들이 봉사활동으로 도와주는 프로그램도 있다고 들었어. 그것도 같이 알아보자.",
+                "user_id": 40
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "고마워. 정말 큰 도움이 될 것 같아. 혼자서는 이런 정보를 찾아볼 생각도 못했어.",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "괜찮아. 너무 많은 걸 혼자 떠안지 마. 도움을 받는 것도 중요해. 우리가 함께 좋은 방법을 찾아볼 거야. 힘내!",
+                "user_id": 40
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:59_conv:118",
+        "ko_situation": "가족과 멀리 떨어진 새로운 곳으로 이사 왔어요.",
+        "situation": "not living near family_comma_ being in a new place.",
+        "emotion": [
+            "lonely",
+            "hopeful"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "나 최근에 꿈꾸던 곳으로 이사 왔는데, 아직 아는 사람이 아무도 없어서 너무 힘들어.",
+                "utter": "I recently moved to my dream location_comma_ but it sucks not knowing anyone.",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "우와, 축하해! 꿈꾸던 곳으로 이사 갔다니 정말 기쁘겠다. 근데 그래, 처음에는 좀 외롭겠어. 이웃들에게 떡 돌리면서 인사하는 건 어때? 우리나라에서는 그렇게 많이 하잖아.",
+                "utter": "congratulations! I know_comma_ it probably feels lonely. Maybe you should do a party at your house and invite all the neighbours",
+                "user_id": 52
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "아, 그거 진짜 좋은 생각인 것 같아! 고마워... 혹시 또 다른 아이디어 있을까?",
+                "utter": "That actually sounds like a really good idea! Thank you... now to decide what to cook.. lol",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "음, 지역 주민 센터나 문화센터에서 하는 프로그램들 찾아보는 건 어때? 요가나 요리 강좌 같은 것도 있고, 독서모임이나 등산 동호회 같은 것도 있더라고.",
+                "utter": "you can't go wrong with some grilled food :) burgers_comma_ wings_comma_ hot dogs",
+                "user_id": 52
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:157_conv:315",
+        "ko_situation": "내가 혼자라고 느낀 상황은 애인이 나를 떠났을 때예요.",
+        "situation": "I situation in which I felt alone was when my partner left me.",
+        "emotion": [
+            "lonely",
+            "sad"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아직도 전 애인이 그리워, 나를 혼자 두고 잠수 이별했어.",
+                "utter": "I still my miss my partner_comma_ they left me all alone.",
+                "user_id": 65
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "잠수 이별이라니, 상대방의 진심도 알 수 없고 힘들겠네. 시간이 해결해줄 거야.",
+                "utter": "I am sorry to hear that_comma_ maybe things will work themselves out!",
+                "user_id": 10
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "나도 그러길 바라, 이런 일이 생길 줄 몰랐어. 우리 같이 결혼할 계획이었거든.",
+                "utter": "I hope so to_comma_ never thought this would happen_comma_ we were suppose to get a house together.",
+                "user_id": 65
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아이고, 그랬구나. 너무 속상하겠다. 너를 더 잘 대해주고 소중히 여기는 사람을 꼭 만나길 바랄게!",
+                "utter": "I feel bad_comma_ I hope you find someone who treats you even better!",
+                "user_id": 10
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "고마워, 나도 그러길 바라.",
+                "utter": "Thank You_comma_ I hope I will also_comma_ because I deserve it_comma_ and so do you.",
+                "user_id": 65
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "지금은 힘들겠지만, 이런 경험도 너를 더 강하게 만들 거야. 혹시 마음의 정리가 필요하면 상담을 받아보는 것도 좋을 것 같아.",
+                "user_id": 10
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "그것도 좋은 생각인 것 같아. 요즘 좀 우울해서 전문가의 도움을 받아보고 싶기도 해.",
+                "user_id": 65
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "그래, 그렇게 해봐. 그리고 뭐든 혼자 안고 있지 말고 언제든 연락해. 내가 항상 네 편이야.",
+                "user_id": 10
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:279_conv:558",
+        "ko_situation": "2000년대가 그리워요.",
+        "situation": "I do miss the 2000's",
+        "emotion": [
+            "nostalgic",
+            "disappointed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "나 요즘 십 년 전이 그렇게 그립더라. 딱 고등학교 때라서 진짜 재밌었는데.",
+                "utter": "I do miss the last decade.I was adolescent and had a lot of fun.",
+                "user_id": 75
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "나도. 20년대 후반~2010년대 초반이 제일 좋았어. 왜 어른 되니까 재미 없지?",
+                "utter": "I have the same feeling but for the last 90s and early 2000's. Being an adult is no fun.",
+                "user_id": 60
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "진짜 그러네. 맨날 돈 걱정, 일 걱정… 차라리 뽀로로 할래. 어렸을 때는 어른이 되고 싶었는데, 이제는 다시 어린 시절로 돌아가고 싶다.",
+                "utter": "No_comma_ it's not.Al responsabilities and no fun. I wish i was Peter Pan.",
+                "user_id": 75
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그래도 우리가 하고 싶은 걸 마음대로 할 수 있잖아. 경제적으로도 더 자유롭고.",
+                "utter": "Yes or rich. When I was a kid I wanted to grow up. Now that I'm old I want to be a kid again.",
+                "user_id": 60
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:456_conv:912",
+        "ko_situation": "라디오에서 고등학교 때 나왔던 노래가 나올 때마다 그 시절로 돌아가고 싶어져. 다시 젊고 걱정 없던 시절로 돌아가고 싶어. 그때가 그리워.",
+        "situation": "There are certain times when I hear a song come on the radio_comma_ that came out when I was in high school_comma_ I want to go back to those days. I wish I could be young and carefree again with no worries. I miss those days.",
+        "emotion": [
+            "nostalgic",
+            "hopeful "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "가끔 고등학교 때로 돌아가고 싶다.",
+                "utter": "I sometimes wish I could go back to high school and be a kid again.",
+                "user_id": 163
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아, 그래? 나는 절대! 어릴 때 정말 힘들었거든.",
+                "utter": "I certainly don't. I was miserable as a kid.",
+                "user_id": 108
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "그런 말을 들으니 안타깝네. 모두가 어릴 때 겪는 고충이 있지. 너는 특히 어떤 점이 힘들었어?",
+                "utter": "I am sorry to hear that. I think we all had struggles we went through as kids_comma_",
+                "user_id": 163
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "음... 학업 스트레스도 심했고, 친구 관계도 복잡했어. 지금이 훨씬 편해. 근데 넌 그때로 가고 싶은 특별한 이유가 있어?",
+                "utter": "Yes_comma_ some worse than others. What do you miss the most?",
+                "user_id": 108
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "아, 나는 고등학교에서의 장기 자랑이나 풋풋했던 첫사랑, 야자 땡땡이치던 추억들. 그리고 지금은 만날 수 없는 친구들과의 추억들이 그리워.",
+                "utter": "Talent shows in high school and Pep rallies_comma_ getting out of class. Just the memories I made with friends I don't get to see now.",
+                "user_id": 163
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그렇구나. 너는 좋은 기억이 많았나 보다. 동창회 만들어 보는 건 어때? 추억으로만 남겨두는 게 아니라 다시 한번 그리운 사람들을 만날 수도 있잖아.",
+                "utter": "You can always organize a reunion for your former classmates.",
+                "user_id": 108
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:413_conv:826",
+        "ko_situation": "지난주에 근처 문방구가 문을 닫는다는 소식을 들었을 때 어릴 적 기억들이 떠올랐어. 장난감, 음악, 게임 등 많은 것들을 회상했어.",
+        "situation": "Last week when I heard about Toys r us closing it made me think of other memories from my childhood. I started reminiscing about the toys_comma_ music_comma_ games and so much more",
+        "emotion": [
+            "nostalgic",
+            "sentimental "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "지난주에 우리 동네 터줏대감 문구점이 문 닫았잖아. 괜히 싱숭생숭하더라.",
+                "user_id": 135,
+                "utter": "Last week when Toys R Us closed it really made me start thinking of the 90s and my childhood"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "왜? 어릴 때 자주 갔었어?",
+                "user_id": 145,
+                "utter": "I've heard a lot of people say something similar. Did you go there a lot?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 남편이랑 어렸을 때, 맨날 거기서 죽치고 놀았었는데. 그때 팔던 장난감들 보면 막 옛날 생각나고 그래.",
+                "user_id": 135,
+                "utter": "I did! I was talking to my husband about the different toys I had. Even started talking about the music and shows from that era"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그랬겠다. 나도 어릴 때 살던 동네 문방구 생각난다. 뽑기 하러 매일 갔었는데.",
+                "user_id": 145,
+                "utter": "Where I grew up didn't have one nearby so I get a little jealous hearing about it."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:102_conv:204",
+        "ko_situation": "태풍에 대비하고 있어요.",
+        "situation": "I am prepared for the hurricane.",
+        "emotion": [
+            "prepared",
+            "apprehensive "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "나는 태풍만 온다 하면 왜 이렇게 불안한지 몰라.",
+                "utter": "I always am prepared for hurricanes.",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "나는 강원도에 살아서 그렇게까지 걱정할 필요는 없어.",
+                "utter": "I live in Texas_comma_ We really dont have to worry about them here.",
+                "user_id": 46
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "아, 강원도 좋지!",
+                "utter": "I love Texas.",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그렇지? 살기 정말 좋은 곳이야. 그래도 태풍 대비는 철저히 하는 게 좋지!",
+                "utter": "Texas is a great place! But I can understand the need to want to be prepared.",
+                "user_id": 46
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아. 그래도 너는 내륙 지방에 살아서 그나마 다행이네. 나는 바닷가 근처라서 더 신경 쓰여.",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그래도 미리 대비 잘 해두면 괜찮을 거야! 긍정적으로 생각하자! 그리고 태풍 진로도 갑자기 바뀔 수도 있잖아!",
+                "user_id": 46
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:166_conv:333",
+        "ko_situation": "대학 장학금을 받으려면 최소한 수능에서 평균 1등급을 받아야 한다는 것을 깨닫고, 2등급을 1등급으로 올리기 위해 열심히 공부했어요. 자신감이 넘쳤어요. 대신 실제로 1등급을 받았어요!",
+        "situation": "Once I realized that I needed at least a 31 on my ACT in order to get a nice little scholarship for college. I studied my heart out to improve my 29 and I felt super confident that I'd get the 31. Instead I actually got a 33!",
+        "emotion": [
+            "prepared",
+            "proud"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "대학 입학하기 전에 돈이 너무 필요해서 장학금을 노렸거든. 근데 수능 평균 2등급을 1등급으로 올려야 했어.",
+                "utter": "I was pretty strapped for money back before my freshman year of college_comma_ so I really needed to get my 29 on my ACT up to a 31 for a scholarship.",
+                "user_id": 55
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "오, 그래서 어떻게 됐어?",
+                "utter": "Did you get it done?",
+                "user_id": 51
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "진짜 열심히 준비했는데, 다행히 성공했어! 1등급 받았거든!",
+                "utter": "I felt super confident that I'd get the 31_comma_ and thankfully I was right since I got a 33!",
+                "user_id": 55
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "우와, 진짜 대단하다! 정말 열심히 했구나!",
+                "utter": "Oh_comma_ nicely done_comma_ thats impressive!",
+                "user_id": 51
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:627_conv:1255",
+        "ko_situation": "아기가 언제 태어나도 이상하지 않을 때였어. 산후조리원도 미리 계약하고, 집을 대청소하고, 냉장고를 채우고, 아기 물건들을 다 준비하고 병원 가방도 싸 놨어. 아기를 맞이할 준비가 완벽하게 되어 있었지.",
+        "situation": "I was expecting a baby any day. I deep cleaned my house_comma_ stocked up the fridge and set up all of the baby's stuff plus a little bag for the hospital. I was all ready for my baby to show up.",
+        "emotion": [
+            "prepared",
+            "anticipating"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "지난달부터 아기 기다리고 있었거든. 산후조리원도 미리 계약하고, 집 청소하고, 냉장고 채우고, 가방도 미리 싸놓고... 다 준비해뒀었어.",
+                "utter": "I was expecting a baby last month. I had everything prepped and ready to go- clean house_comma_ stocked fridge_comma_ packed bag and more_comma_",
+                "user_id": 152
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "와, 진짜 철저하게 준비했네. 그래서 다 계획대로 잘 됐어?",
+                "utter": "Oh that's very resourceful of you. Did everything go as expected?",
+                "user_id": 198
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 지금까지 중에 제일 편안한 출산이었어.",
+                "utter": "Yep it was my most laidback baby experience so far.",
+                "user_id": 152
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "대박! 완벽하게 준비하니까 출산도 편해지는 거구나. 정말 대단하다!",
+                "utter": "Nice! You sound like a great caretaker.",
+                "user_id": 198
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:346_conv:693",
+        "ko_situation": "19살 딸이 너무 자랑스러웠어. 우리가 20살이 아니면 아무도 고용하지 않을 거라고 말했는데도 여름에 일하려고 결심했어. 그녀는 끝까지 포기하지 않았고, 첫 번째 면접에서 바로 고용됐어!",
+        "situation": "I was so proud of my 15 year old daughter. She was determined to work this summer_comma_ even with us telling her no one would hire her unless she was 16. She persevered and we were wrong -- she was hired at the first job she interviewed for!",
+        "emotion": [
+            "proud",
+            "impressed "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "우리 19살 딸이 정말 자랑스러워. 여름에 일을 하겠다고 굳게 결심했는데, 우리가 20살이 되어야 알바할 수 있다고 말했는데도 불구하고 결국 일을 구했어!",
+                "user_id": 66,
+                "utter": "I am definitely a proud parent of our 15 year old -- she was determined to work this summer_comma_ and even with us saying no one would hire her until 16 -- she found a job!"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "우와, 다 컸네! 그 나이에 그렇게 의지가 강하다~ 진짜 대단한데? 어떤 일을 하게 됐어?",
+                "user_id": 45,
+                "utter": "Well_comma_ that's impressive! I can see why you are proud. Sounds like a hard working young lady!"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "카페에서 일하게 됐어. 자기 돈을 벌 수 있다는 게 너무 좋아하더라고.",
+                "user_id": 66,
+                "utter": "That_comma_ and she's enjoying the independence of having her own money. Remember that? Making money that you truly could use for your *pleasure* (and not just necessities ?! ;-))"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그럴 만하지. 나도 그 나이 때 처음 돈을 벌었을 때가 생각나네. 정말 뿌듯했었지.",
+                "user_id": 45,
+                "utter": "Yes_comma_ I was the same way too! I started working two days after I turned 16 so I could have my own money too!"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아, 나도 그랬어! 근데 걱정되는 건 학기 중에 일과 공부를 어떻게 병행할지야.",
+                "user_id": 66,
+                "utter": "Same! I was surprised 15 year olds *can* actually work during the summer. It's just finding an employer who knows those hours get cut WAY back once school starts."
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그래, 그건 좀 걱정되겠다. 하지만 네 딸이라면 잘 해낼 거야. 시간 관리 능력도 기를 수 있는 좋은 기회가 될 것 같아.",
+                "user_id": 45
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:88_conv:177",
+        "ko_situation": "1년 동안 미루던 베란다 정리를 드디어 끝냈어.",
+        "situation": "I finally rearranged the garage after a year of putting it off",
+        "emotion": [
+            "proud",
+            "content "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "여기 이사 온 지 1년 만에 드디어 베란다 정리를 끝냈어.",
+                "utter": "So after a year of being here we finally got to rearrange the garage.",
+                "user_id": 46
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "오, 대단한데? 어떻게 정리했어?",
+                "utter": "How is it looking?",
+                "user_id": 11
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "필요 없는 물건들은 정리하고, 화분도 예쁘게 배치했어. 이제 여유 공간이 많이 생겼지.",
+                "utter": "I think we will be able to get two cars in here now!",
+                "user_id": 46
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "오, 잘됐네! 진짜 부럽다. 우리도 베란다 넓었으면 좋겠어. ㅎㅎ 식물 좋아해?",
+                "utter": "There you go! Thats awesome.. i really wish we had a garage. lol lucky!",
+                "user_id": 11
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:60_conv:121",
+        "ko_situation": "할머니께서 에스컬레이터에서 넘어지려는 것을 막아줬어.",
+        "situation": "I was able to save a blind lady from falling down an escalator.",
+        "emotion": [
+            "proud",
+            "surprised "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아, 오늘 에스컬레이터에서 할머니 한 분이 넘어질 뻔한 걸 막았어.",
+                "utter": "I was able to save a blind lady from falling down an escalator.",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "할머니는 괜찮아? 네가 가까이 있어서 다행이다!",
+                "utter": "Is she ok? Im glad you were close by!",
+                "user_id": 46
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 다행히 큰 일은 없으셨어. 앞이 잘 안 보이시는 것 같았는데, 내가 옆에 있어서 붙잡을 수 있었던 것 같아.",
+                "utter": "She was very alarmed and rightfully so. I'm usually not a nice person_comma_ but I'm glad I did the right thing that time!",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "다행이다. 네가 그 자리에 있어서 정말 다행이네. 할머니도 많이 놀라셨겠다.",
+                "utter": "That is really cool of you to do_comma_ Did anyone else see it happen?",
+                "user_id": 46
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그러게. 할머니도 놀라셨고 나도 당황했었어. 솔직히 말하면 난 평소에 그렇게 남을 잘 돕는 사람은 아니거든.",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그래도 그 순간에 옳은 일을 한 거잖아. 난 네가 한 행동이 정말 자랑스러운데?",
+                "user_id": 46
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:5_conv:10",
+        "ko_situation": "어린이날에 선물을 하나도 못 받아서 힘든 하루를 보냈어.",
+        "situation": "One year during christmas_comma_ i did not get a single gift. It was a rough day for me.",
+        "emotion": [
+            "sad",
+            "lonely"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "몇 년 전 어린이날에 선물 하나도 못 받았어. 어린이날만 기다려 왔는데...",
+                "utter": "During christmas a few years ago_comma_ I did not get any presents.",
+                "user_id": 9
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "나도 어린이날을 제일 좋아하는데, 그때 많이 서운했겠다. 근데 지금은 어른이 되어서 오히려 우리가 아이들에게 선물을 줄 수 있는 입장이 되었잖아.",
+                "utter": "Wow_comma_ that must be terrible_comma_ I cannot imagine_comma_ I lvoe christmas",
+                "user_id": 10
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "맞아. 근데 그때 이후로 어린이날이 나한테는 그냥 그렇더라고.. 사실 별로야. 가족도 없어서 더 힘들어.",
+                "utter": "Since that day christmas has not been a good time for me. As I have no family_comma_ christmas is always the worst.",
+                "user_id": 9
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "이해해. 근데 가족이 없어도 의미 있는 날을 만들 수 있어. 주변 친구들이나 동네 아이들에게 작은 선물을 하는 건 어때? 그러면 너도 기분이 좋아질 거야.",
+                "utter": "Wow_comma_ I am sorry to hear that_comma_ I wish I could make it a better holiday for you!",
+                "user_id": 10
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "내가 뭘 해줄 수 있는 게 있을까? 하... 살면서 잘 잊혀지지 않는 날들이 있는 것 같아. 너도 그런 날 있어?",
+                "utter": "Some days are just days that you never forget. I wish you could as well.",
+                "user_id": 9
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "물론 나도 그런 날들이 있지. 근데 그런 날들을 새로운 의미로 채워나가는 것도 좋을 것 같아. 어린이날에 봉사활동을 해보는 건 어때? 그러면 새로운 추억도 만들고 의미 있는 날이 될 거야.",
+                "user_id": 10
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:429_conv:858",
+        "ko_situation": "부모님이 내 돈을 계속 가져가.",
+        "situation": "My parents keep taking my money",
+        "emotion": [
+            "sad",
+            "disappointed"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "요즘 너무 힘들어. 부모님이 자꾸 내 돈을 가져가시는데, 저축할 돈이 하나도 없어.",
+                "user_id": 143,
+                "utter": "My parents keep taking my money"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "와... 그거 좀 심한데. 매번 얼마나 가져가시는데?",
+                "user_id": 151,
+                "utter": "That's not nice of them. Why do they keep taking it??"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "액수가 문제가 아니라, 내가 돈 모으는 게 너무 힘들어. 이러다간 평생 모으겠어.",
+                "user_id": 143,
+                "utter": "They need it for other stuff. I never get a chance to save any of it."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그 마음 이해해. 부모님께 솔직하게 말씀드려 봤어?",
+                "user_id": 151,
+                "utter": "Sorry to hear that. I found that it helps to have multiple savings accounts_comma_ so whenever you get a certain amount of money (like $5_comma_ $10) save it and be strict not to spend it."
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "말씀드리기가 너무 어려워. 괜히 서운해하실까 봐.",
+                "user_id": 143
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "음… 그럼 우선 용돈 달라고 하지 않으시는 선에서, 조금씩 저축하는 건 어때? 비상금 통장 같은 거 하나 만들어서 따로 관리해 봐.",
+                "user_id": 151
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "비상금 통장? 괜찮은 생각이네. 한번 해봐야겠다.",
+                "user_id": 143
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "응. 그리고 나중에 기회 봐서 부모님께도 네 상황을 잘 설명드려 봐. 잘 해결될 거야.",
+                "user_id": 151
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:62_conv:125",
+        "ko_situation": "몇 년 전 할머니가 갑자기 돌아가셨을 때.",
+        "situation": "A few years ago when my grandmother died unexpectedly.",
+        "emotion": [
+            "sad",
+            "caring"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "몇 년 전에 할머니께서 갑자기 돌아가셨어.",
+                "utter": "My grandmother passed away unexpectedly a few years ago.",
+                "user_id": 53
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아니, 너무 안타깝다. 나도 작년 11월에 할머니가 돌아가셨는데. 많이 힘들었지?",
+                "utter": "oh no sorry to hear that. I just lost mine in November. It's hard.",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 많이 힘들더라고. 나 할머니 손에서 자라서, 할머니랑 제일 친했는데.",
+                "utter": "Yes it is. She was the grandparent I was closest to.",
+                "user_id": 53
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그랬구나. 정말 가슴 아팠겠어. 할머니와의 했던 추억들이 많이 생각 나겠다.",
+                "utter": "People say it gets easier. I'm still waiting for that part.",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아. 사람들은 시간이 지나면 나아진다고 하는데... 난 아직인가 봐.",
+                "utter": "Yes_comma_ I believe that time is the best way to heal.",
+                "user_id": 53
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "얼마나 힘들었을지 상상도 안 돼. 나도 아직 완전히 괜찮아진 건 아니야. 근데 나도 시간이 약이라는 말을 믿고 있어. 일단 애도의 시간을 충분히 가져봐. 그 후에는 천천히 나아질 거야.",
+                "utter": "I hope so. Nice chatting with you.",
+                "user_id": 27
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "그랬으면 좋겠다. 너랑 이야기하니까 좀 위로가 되네. 고마워.",
+                "user_id": 53
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "나도 같은 경험이 있어서 네 마음을 잘 알 것 같아. 서로 위로가 되는 것 같아 나도 고마워. 오늘 하루 잘 보내고, 힘들 때 언제든 연락해.",
+                "user_id": 27
+            }
+        ]
+    },
+    
+    {
+        "conv_id": "hit:326_conv:652",
+        "ko_situation": "아들이 첫돌을 맞았을 때 그 느낌을 느꼈어. 너무 특별한 날이었고, 남편과 나는 그의 첫 해의 모든 사진을 돌아보며 몇 시간을 보냈어.",
+        "situation": "I felt this when my son turned one. It was such a special day and my husband and I spent hours going back and looking at all the photos from his first year.",
+        "emotion": [
+            "sentimental",
+            "proud"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "혹시 어린 자녀 있으세요?",
+                "utter": "Do you have any young children?",
+                "user_id": 123
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아니, 없는데요. 혹시 님은요?",
+                "utter": "I do not_comma_ how about you?",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "네, 전 있어요. 제 아들이 얼마 전에 첫돌을 맞았는데, 특별하고 소중한 날이었어요! 첫돌 기념으로 찍었던 사진들을 몇 시간 동안 쭉 보면서 추억을 되새겼어요. 아, 혹시 돌잡이 할 때 뭘 잡았는지 아세요?",
+                "utter": "I do_comma_ my son recently turned one and it was such a special day for us! We spent hours going back and looking at all of the photos we had taken of him throughout the first year.",
+                "user_id": 123
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "첫돌이요? 정말 뜻깊은 날이었겠어요. 궁금하네! 뭘 잡았어요?",
+                "utter": "Thats cool_comma_ what kind of camera do you have?",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "마이크를 잡았어요! 나중에 멋진 가수가 될 것 같아요. ㅎㅎ",
+                "utter": "We don't have any type of nice camera_comma_ we just use our smartphones. I have an iphone and my husband has a samsung note. The quality on phones now are pretty good_comma_ we have the portrait mode.",
+                "user_id": 123
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "와, 마이크요? 재미있네요! 어쩌면 미래의 스타를 키우고 계신지도 모르겠어요.",
+                "utter": "",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "그러게요. 그 작은 손으로 마이크를 잡는 모습이 너무 귀여웠어요. 시간이 정말 빨리 가는 것 같아요.",
+                "utter": "",
+                "user_id": 123
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "맞아요. 아이들은 정말 빨리 자라나죠. 그 순간순간을 소중히 여기시는 것 같아 보기 좋네요.",
+                "utter": "",
+                "user_id": 4
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:371_conv:742",
+        "ko_situation": "가족 응급 상황 때문에 강아지를 버리고 70km 떨어진 곳으로 이사해야 했어. 내 인생에서 가장 슬픈 순간 중 하나였어. 그 강아지는 내 첫 강아지였고, 내 작은 친구였어. 백구는 나를 너무 사랑해서 내가 차를 타고 떠날 때 뒷유리에 보이는 그를 보며 아기처럼 울었어. 내 아이들이 떠나는 것처럼 슬펐어.",
+        "situation": "I was forced due to a family emergency to get rid of our family dog and move 550 miles away. It was one of the saddest moments in my life_comma_ in our lives... The dog was my first dog ever and my little buddy. Tank loved me so much that when I drove off and looked in my rear view at him I cried like a baby. I cried as if my children were moving away from me. It was very sad.",
+        "emotion": [
+            "sentimental",
+            "nostalgic"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "내 첫 번째 강아지 백구는 진돗개였어. 5년 동안 우리랑 함께 했는데, 정말 너무너무 사랑했어. 근데 가족 일 때문에 갑자기 이사를 가게 됐는데, 백구를 데려갈 수가 없어서 보내야 했어.",
+                "utter": "My first dog_comma_ Tank_comma_ I got as a pitbull. He was with us 5 years. I loved that dog sooo much. After a family emergency came up we had to move. We couldn't take Tank so I had to let him go.",
+                "user_id": 22
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "아니, 진짜? 너무 안타깝다... ㅠㅠ 그때 마음이 얼마나 아팠을까. 혹시 입양 보냈어?",
+                "utter": "Oh I'm so sorry to hear that. Was he adopted?",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "농장 주인 아저씨가 데려가겠다고 하셨어. 차 타고 떠나는데 뒷좌석에서 백구가 차 쫓아오는 게 보였어. 그 길로 엉엉 울면서 집까지 갔다니까.",
+                "utter": "I got him as a puppy at 7 weeks old. A man that owned a farm offered to take him. As I drove off I looked in my rear view and saw him chasing the car. I cried like a baby all the way down that driveway.",
+                "user_id": 22
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "힝.. 불쌍한 백구. 너도 많이 힘들었겠다. 그래도 농장 주인분이 백구 잘 돌봐주실 거야.",
+                "utter": "Oh no. Poor guy. I hope he'll be happy with the man.",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "그러길 바래야지… 백구는 나한테 엄청 보호본능 강했었거든.  지금도 가끔 꿈에 나올 정도로 진짜 너무 보고 싶어. ㅋㅋ 덕분에 고양이파에서 강아지파로 갈아탔다니까.",
+                "utter": "I hope so too... He was so protective over me. I miss him very much. lol He made me go from a cat lover to a dog lover.",
+                "user_id": 22
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:357_conv:715",
+        "ko_situation": "제주도 비행기 타고 가는데 아래에 보이는 한라산을 보면서 집에 돌아오는 느낌이 들었어.",
+        "situation": "I was flying in to LAX and the Sierra Nevada Mountains below me made me feel like I was coming home.",
+        "emotion": [
+            "sentimental",
+            "nostalgic"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "몇 주 전에 제주도 다녀왔는데, 비행기에서 한라산 보이는 게 진짜 너무 멋있더라. 그 순간을 사진으로 담았어야 했는데.ㅎㅎ",
+                "utter": "I flew back to California a few weeks ago_comma_ it was beautiful flying in over the mountains.",
+                "user_id": 127
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "우와, 진짜 멋졌겠다. 하늘에서 보는 한라산이면 정말 장관이었겠어. 마음이 평화로워졌을 것 같아.",
+                "utter": "It sounds beautiful and serene.",
+                "user_id": 1
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 진짜 그래. 구름 사이로 보이는 한라산이 너무 아름다웠어. 지금 생각해도 가슴이 벅차. 제주도가 벌써 그리워지네. 또 가고 싶다.",
+                "utter": "It really is_comma_ I miss the Sierra Nevadas very much_comma_ have you ever been?",
+                "user_id": 127
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그 기분 뭔지 알 것 같아. 여행지의 추억이 이렇게 오래 남는 거지. 너는 제주도에 자주 가?",
+                "utter": "No I haven't. But now I want to see.",
+                "user_id": 1
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:492_conv:985",
+        "ko_situation": "한 번 친구가 나에게 장난을 쳤어. 죽은 척을 했는데, 계단 아래로 내려갔을 때 그의 머리 근처에 빨간 물질이 있었어. 알고 보니 고추장이었어!",
+        "situation": "One time my friend played a prank on me where he acted dead. I came down stairs and there was a red substance on the ground near his head_comma_ but it was just ketchup!",
+        "emotion": [
+            "surprised",
+            "joyful "
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아 진짜, 어제 친구 녀석 때문에 식겁했잖아. 죽은 척하고 고추장을 피처럼 바르고 있더라니까. 완전 어이없어서...",
+                "user_id": 64,
+                "utter": "I recently had a prank played on me. My friend pretended to be dead and used ketchup as a prop!"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "헐, 대박. 야, 근데 그 친구 좀 웃기는 면이 있네. 상상력 봐라. ㅋㅋㅋ",
+                "user_id": 55,
+                "utter": "Damn that sounds like a pretty good one! How did that turn out?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "처음엔 진짜 화났는데, 나중에 생각해보니 웃기더라. 걔도 엄청 쫄았을 거 아냐. ㅋㅋ",
+                "user_id": 64,
+                "utter": "I ended up being very upset at first and then laughed it off!"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그러니까. 너 엄청 놀랐겠다. 근데 화 풀린 거면 됐지 뭐. 친구끼리 그럴 수도 있지.",
+                "user_id": 55,
+                "utter": "That's how all pranks should be!"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "응, 그래도 다음엔 하지 말라고 했어. 진짜 심장 떨어지는 줄 알았다니까.",
+                "user_id": 64
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "야, 근데 너 진짜 순진하다. 고추장인 거 딱 보면 모르냐? ㅋㅋㅋ",
+                "user_id": 55
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:286_conv:573",
+        "ko_situation": "처음으로 결혼정보회사를 사용해봤어. 사진 속의 그녀는 그럭저럭 괜찮아 보였는데, 실제로 만나보니 정말 멋졌어.",
+        "situation": "I tried online dating the first time on POF. The girl was decent looking in the photos. But when I met her in real life she was a bombshell.",
+        "emotion": [
+            "surprised",
+            "joyful"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "처음으로 결혼정보회사 매칭 서비스를 사용해봤어. 사진 속의 그녀는 그럭저럭 괜찮아 보였는데, 실제로 만나보니 정말 멋졌어.",
+                "utter": "I tried OkCupid last year for the first time...the first girl I met was decent in the pictures_comma_ but turned out to be a bombshell in person...",
+                "user_id": 119
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "좋은 인연을 만난 것 같네. 축하해!",
+                "utter": "I do not like OkCupid.",
+                "user_id": 4
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "고마워. 사실 결혼정보회사에 대한 선입견이 좀 있었거든. 근데 이번 경험으로 그런 생각이 많이 깨졌어.",
+                "utter": "Okay buddy what do you like",
+                "user_id": 119
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "맞아, 뭐든 직접 경험해보기 전까진 모르는 거지. 너한테 잘 맞는 사람을 만난 것 같아서 기쁘다.",
+                "utter": "I prefer Tinder.",
+                "user_id": 4
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:157_conv:314",
+        "ko_situation": "부모님이 새 차로 학교에 저를 데리러 오셨을 때 정말 깜짝 놀랐어요. 전혀 예상하지 못했어요!",
+        "situation": "I was surprised when my parents picked me up from work in a new car for me. I did not expect that at all!",
+        "emotion": [
+            "surprised",
+            "joyful"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "내가 20살 되었을 때 부모님이 새 차를 사서 학교에서 데리러 오셨어. 진짜 놀랐어.",
+                "utter": "my parents picked me up from work in a new car for me when I turned 17_comma_ I was so surprised",
+                "user_id": 10
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "와, 정말? 진짜 신났었겠다?",
+                "utter": "Did this make you excited?",
+                "user_id": 65
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "엄청 신났지. 그냥 차가 있다는 것만으로도 너무 좋았어!",
+                "utter": "I was very excited_comma_ just to have a car at all is awesome!",
+                "user_id": 10
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그랬겠다. 20살에 차를 갖게 되다니 정말 좋았겠어. 차종은 뭐야?",
+                "utter": "What type of car was it?",
+                "user_id": 65
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "아, 그때 차종이... 현대 아반떼였어. 지금 생각해보면 그렇게 고급 차는 아니었지만, 그때는 정말 최고로 좋아 보였지.",
+                "utter": "I was very excited_comma_ just to have a car at all is awesome!",
+                "user_id": 10
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "아반떼면 괜찮은 차인데! 첫 차로는 정말 좋은 선택이었던 것 같아. 연비도 좋고 관리하기도 편하고.",
+                "utter": "Did this make you excited?",
+                "user_id": 65
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "맞아. 지금 생각해보니 부모님이 실용적으로 잘 골라주셨더라고. 그 차로 처음 운전하면서 많이 배웠어.",
+                "utter": "I was very excited_comma_ just to have a car at all is awesome!",
+                "user_id": 10
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "그렇겠다. 첫 차라 더 의미 있었겠어. 지금도 그 차 타고 있어?",
+                "utter": "What type of car was it?",
+                "user_id": 65
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:814_conv:1629",
+        "ko_situation": "한 번은 빨간 눈을 가진 귀신이 저를 눌러서 꼼짝도 못하고 소리도 지를 수 없는 꿈을 꾼 적이 있어요. 너무 무서워서 지금까지 겪어본 공포 중에 가장 무서웠어요.",
+        "situation": "One time I had a dream where i was being held down by a shadow demon with red eyes. I couldn't move or scream even though I wanted to. It was the most scared I've ever been.",
+        "emotion": [
+            "terrified",
+            "anxious"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "있잖아, 너 가위눌린 적 있어? 나 어제 가위눌려서 너무 무서웠어.",
+                "user_id": 231,
+                "utter": "Have you ever had a sleep paralysis dream?"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "가위눌림? 응, 나도 가끔 눌려. 진짜 기분 나쁘지. 뭐 봤는데?",
+                "user_id": 68,
+                "utter": "Yep! Not really that fun to have since you see things at times."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "나 막 연기 같은 그림자가 빨간 눈으로 나 쳐다보는 거 있지? 완전 귀신 같았어.",
+                "user_id": 231,
+                "utter": "Yeah_comma_ in mine I saw a smoke looking shadow over me with red eyes staring at me. I've never been more scared in my life."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "헐, 대박! 진짜 무섭겠다. 나도 가위눌렸을 때 이상한 거 많이 봐. 막 귀신도 보고...",
+                "user_id": 68,
+                "utter": "Man that is scary! Granted i like to hear things about that. "
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "맞아, 가위눌림 진짜 싫어.",
+                "user_id": 231
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그러니까. 혹시 자주 그러면 한의원 한 번 가봐. 침 맞으면 좀 낫다고 하더라.",
+                "user_id": 68
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:368_conv:737",
+        "ko_situation": "12살 때 '장화 홍련'을 봤는데, 무서운 영화인 줄 몰랐어. 다 보고 나니까 불 끄고 자기가 무서웠어.",
+        "situation": "When I was 12 I watched the Sixth Sense. I didn't know it was going to be a scary movie but I finished watching it. I enjoyed it except for the fact I had to sleep with the lights on because I when I closed my eyes I would see the poisoned girl staring at me angrily with vomit running down her mouth_comma_ with the abused lady behind her yelling...\"YOU CAN'T HURT ME ANYMORE NEDDY!!!\"",
+        "emotion": [
+            "terrified",
+            "nostalgic"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "12살 때 '장화 홍련'을 봤는데, 무서운 영화인 줄 몰랐어. 다 보고 나니까 불 끄고 자기가 무서웠어.",
+                "utter": "WOW that is super scary! are you ok?",
+                "user_id": 46
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "와, 정말 무서웠겠다. 그래도 결국 잘 잤어?",
+                "utter": "No I just soiled my pantssss omg",
+                "user_id": 119
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "아니, 자다가 오줌을 지렸던 거 같아...",
+                "utter": "Sometimes i keep a extra pir of underwear in my car for this occasion.",
+                "user_id": 46
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "저런...ㅋㅋㅋ 그래도 지금 와서 보면 어린 날의 추억이네.",
+                "utter": "",
+                "user_id": 119
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:175_conv:351",
+        "ko_situation": "직감을 따라가다 보니 머리로만 생각했으면 놓쳤을 상황들이 있어. 나는 \"직감\"을 듣는 것을 정말 믿어.",
+        "situation": "My intuition has led me into some situations that had I only used my head_comma_ I might have missed out on. I'm a big believer in listening to your \"gut\".",
+        "emotion": [
+            "trusting",
+            "confident"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "야, 난 직감을 꽤 믿는 편이야. 가끔 '이게 맞나?' 싶을 때도 있긴한데, 결국엔 내 직감이 맞더라고.",
+                "user_id": 66,
+                "utter": "I'm a big believer in listening to your gut. Sometimes I might wonder where my intuition is leading me_comma_ but it always seems to be spot on."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "오, 그래? 나도 가끔 그런 경험 있어. 뭔가 설명하기 어려운 느낌 같은 거?",
+                "user_id": 10,
+                "utter": "I agree_comma_ someimes we just know"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "맞아맞아. 뭔가 맞는 일일 때는 그냥 물 흐르듯 자연스럽게 흘러가는 느낌이랄까. 어디로 가는지 정확히 모르더라도 뭔가에 이끌리는 것 같달까.",
+                "user_id": 66,
+                "utter": "It is a \"knowing\" -- and a flowing! When something is right_comma_ it just feels easier to go with it -- like you're being led_comma_ even if you might not fully know to where."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "아, 완전 알겠어. 그런데 너는 그런 직감이 항상 맞는 편이야? 나는 가끔 그것 때문에 실수한 적도 있거든..ㅎㅎ",
+                "user_id": 10,
+                "utter": "exactly_comma_ i get that entirely!"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "음... 사실 가끔 틀릴 때도 있지. 그래도 대체로 맞는 편이야.",
+                "user_id": 66
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그렇구나. 직감도 중요하지만 때로는 직접 물어보는 것도 필요한 것 같더라. 확인 차원에서.. 둘 다 균형있게 쓰면 좋을 것 같은데?",
+                "user_id": 10
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:556_conv:1112",
+        "ko_situation": "어머니가 저를 대신해 은행에서 많은 돈을 인출하셨어요. 저는 어머니를 정말 신뢰해요.",
+        "situation": "My mother recently took out a bunch of money on my behalf from the bank. I trust her so much!",
+        "emotion": [
+            "trusting",
+            "grateful"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "어머니가 오늘 처음으로 스마트뱅크 앱으로 은행 업무를 보셨어. 우리 엄마 정말 대단하신 것 같아.",
+                "user_id": 64,
+                "utter": "My mother recently went to the bank for me. I love her so much."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "오, 그러셨어? 요즘 디지털뱅킹이 많이 편리해졌다지만 어르신들께는 여전히 어려울 텐데 잘 하셨나 보네.",
+                "user_id": 160,
+                "utter": "That is really nice of her.  It is nice to have someone to help you do things sometimes."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "그러니까. 엄마가 혼자서 스마트폰으로 은행 일 처리하실 수 있을까 좀 걱정됐는데, 다행히 고객센터에서 친절하게 도와주셨대.",
+                "user_id": 64,
+                "utter": "Nice people are the best. Empathy is something we all need more of!"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "다행이다. 디지털뱅크가 편리하긴 해도 어르신들께는 아직 낯설 수 있으니까. 그런데 어쩌다가 혼자서 은행 업무를 보신건지 물어봐도 돼? 말하기 싫으면 안해줘도 돼.",
+                "user_id": 160,
+                "utter": "Yes.  Too many people these days are mean to one another!"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "아, 그게 내가 바빠서 부탁드렸는데 대신해서 은행에서 돈 인출해주셨어. 좀 큰 돈이라서, 불안하기도 했지만 엄마니까 믿고 맡길 수 있었지.",
+                "user_id": 64
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "오~ 그렇구나. 어머니께서 큰 도움 주셨네. 정말 좋은 어머니 두셨다.",
+                "user_id": 160
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:1163_conv:2327",
+        "ko_situation": "온라인에서 만난 친구와 실제로 만나본 적이 있어요.",
+        "situation": "I met a friend online once and we met up in person. ",
+        "emotion": [
+            "trusting",
+            "hopeful"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "있잖아, 몇 년 전에 메이플스토리 하다가 알게 된 사람이 있거든. 채팅하다 보니까 의외로 잘 맞아서 결국 실제로 만났다?!",
+                "user_id": 288,
+                "utter": "A few years ago_comma_ I became friends with someone through an online video game. Eventually we trusted each other_comma_ so we met up in person!"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "오, 그래? 나도 그렇게 온라인에서 알게 된 사람들 몇 명 있어. 대부분 괜찮은 경험이었던 것 같아. 너는 어땠어?",
+                "user_id": 68,
+                "utter": "I know a lot of people in real life through that kind of stuff. Has been pretty great for me after 11 years. How is it for you so far."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "진짜? 나는 이 친구랑 계속 만나다 보니까... 사실 결혼까지 했어!",
+                "user_id": 288,
+                "utter": "I'd say it's going pretty well_comma_ we eventually got married! How did you meet your friends?"
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "헐, 대박! 완전 축하해! 온라인 게임에서 만나서 결혼까지 하다니, 진짜 인연인가 보다.",
+                "user_id": 68,
+                "utter": "Well we met through going to conventions and i even visited some myself. Really great bunch of people and i see places."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:100000_conv:56",
+        "ko_situation": "아버지께서 돌아가시기 전에 더 잘해드리지 못한 게 한이 돼요.",
+        "situation": "I regret not being able to do more for my father before he passed away.",
+        "emotion": [
+            "han"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "아버지께서 돌아가시기 전에 더 잘해드리지 못한 게 한이 돼요.",
+                "utter": "I regret not being able to do more for my father before he passed away."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "네 마음 충분히 알아. 아버지도 네가 최선을 다한 걸 아셨을 거야.",
+                "utter": "I know how you feel, and I think he would have known you did your best."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "그래도 마지막 순간에 함께 하지 못한 게 너무 후회돼요.",
+                "utter": "But I still regret not being there with him at the end."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그 마음이 더 큰 사랑이 되어 아버지께 전달될 거야. 네 마음을 잘 간직하고 살아가자.",
+                "utter": "That feeling will turn into even greater love for your father. Let's hold onto that feeling and live our lives."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:100000_conv:58",
+        "ko_situation": "할아버지가 일제 강점기 때 독립운동을 하다가 잡혀가셨어. 그때 제대로 모시지 못한 게 계속 마음에 남아.",
+        "situation": "My grandfather was captured during the Japanese occupation while fighting for independence. I still regret not being able to take care of him properly.",
+        "emotion": [
+            "han"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "할아버지가 일제 강점기 때 독립운동을 하다가 잡혀가셨어. 그때 제대로 모시지 못한 게 계속 마음에 남아.",
+                "utter": "My grandfather was captured during the Japanese occupation while fighting for independence. I still regret not being able to take care of him properly."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "그 시절 정말 많은 사람들이 희생하셨어. 할아버지의 희생 덕분에 우리가 지금 있는 거지.",
+                "utter": "So many people made sacrifices during that time. We owe our lives today to your grandfather's sacrifice."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "그렇지만 할아버지의 고통을 생각하면 가슴이 아파. 우리가 더 잘해드렸어야 했는데.",
+                "utter": "But thinking about the pain he went through breaks my heart. We should have done more for him."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "할아버지의 희생을 기억하고 그 뜻을 이어나가자. 그게 우리가 할 수 있는 최선이야.",
+                "utter": "Let's remember his sacrifice and carry on his legacy. That's the best we can do."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:100000_conv:60",
+        "ko_situation": "우리 아들이 학교에서 폭력을 당했을 때, 가난 때문에 제대로 대응하지 못한 게 너무 속상해.",
+        "situation": "I feel terrible that I couldn't respond properly when my son was bullied at school because we were poor.",
+        "emotion": [
+            "han"
+        ],
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "우리 아들이 학교에서 폭력을 당했을 때, 가난 때문에 제대로 대응하지 못한 게 너무 속상해.",
+                "utter": "I feel terrible that I couldn't respond properly when my son was bullied at school because we were poor."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "그런 상황에서 얼마나 힘들었을지 이해해. 정말 안타깝다.",
+                "utter": "I understand how hard that must have been for you. It's really unfortunate."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "결국 합의금으로 해결했지만, 제대로 싸우지 못한 게 마음에 걸려. 더 잘해주지 못한 것 같아.",
+                "utter": "In the end, we settled it with money, but I regret not fighting harder. I feel like I didn't do enough."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그때의 선택이 아들을 위한 최선이었다고 생각해. 앞으로 더 잘해주면 돼.",
+                "utter": "I believe that was the best choice you could make for your son at the time. You can always do better moving forward."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:100000_conv:34",
+        "ko_situation": "어릴 적 꿈을 이루지 못한 게 한이 돼요. 지금 생각해도 아쉬워요.",
+        "situation": "I regret not achieving my childhood dream. Even now, I still feel sad about it.",
+        "emotion": "Han",
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "어떤 꿈이었나요?",
+                "utter": "What was your dream?"
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "저는 뮤지션이 되는 게 꿈이었어요. 하지만 현실은 그렇지 않았어요.",
+                "utter": "I dreamed of becoming a musician, but reality didn't work out that way."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "꿈을 이루지 못한 게 정말 아쉬운 일이에요.",
+                "utter": "It's really sad that you couldn't achieve your dream."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "맞아요. 그때 그 길을 선택하지 못한 게 한이 됐어요.",
+                "utter": "Yes, not choosing that path back then has become a regret for me."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:100000_conv:71",
+        "ko_situation": "할머니를 오랜만에 봐서 참 정겨웠어.",
+        "situation": "It was really heartwarming to see my grandmother after a long time.",
+        "emotion": "jeong",
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "얼마 전 오랜만에 할머니 댁에 다녀왔는데, 예전 그대로 계셔서 참 반가웠어.",
+                "utter": "I recently visited my grandmother's house after a long time, and it was so nice to see her just as she was before."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "그랬구나. 할머니는 항상 그 자리에 계셔서 마음이 따뜻해지지.",
+                "utter": "That's great to hear. Just knowing that she's always there warms your heart, doesn't it?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "맞아. 어릴 때 할머니랑 같이 밭에서 일하던 기억도 나고, 정말 소중한 시간들이었어.",
+                "utter": "Yes, I remember working in the fields with her when I was a kid. Those were really precious times."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "할머니가 해주신 음식도 여전히 맛있었어?",
+                "utter": "Was the food she made still as delicious as you remember?"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "응, 그 손맛은 정말 변하지 않더라. 할머니의 정성이 담긴 음식이라 그런지 더 맛있게 느껴졌어.",
+                "utter": "Yes, her cooking hasn't changed at all. It tasted even better because of the love she puts into it."
+            },
+            {
+                "utter_idx": 6,
+                "ko_utter": "그런 시간들이 참 귀중한 것 같아. 할머니와의 추억을 더 많이 쌓아가면 좋겠다.",
+                "utter": "Those moments are really precious. I hope you can make even more memories with her."
+            },
+            {
+                "utter_idx": 7,
+                "ko_utter": "그래서 앞으로는 더 자주 찾아뵈려고 해. 할머니가 많이 기뻐하시더라고.",
+                "utter": "That's why I'm planning to visit her more often. She was really happy to see me."
+            },
+            {
+                "utter_idx": 8,
+                "ko_utter": "응원할게. 할머니와 함께하는 시간이 너에게도 큰 힘이 될 거야.",
+                "utter": "I'm cheering you on. The time you spend with her will be a great source of strength for you too."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:100000_conv:2",
+        "ko_situation": "우리 회사 부장님 있잖아, 처음엔 진짜 엄청 까칠하셔서 너무 싫었는데, 이제는 미운 정이 들었나 봐.",
+        "situation": "You know my manager at work? At first, I really didn't like him because he was so harsh, but now it seems like I've grown fond of him despite that.",
+        "emotion": "jeong",
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "우리 회사 부장님 있잖아, 처음엔 진짜 엄청 까칠하셔서 너무 싫었는데, 이제는 미운 정이 들었나 봐.",
+                "utter": "You know my manager at work? At first, I really didn't like him because he was so harsh, but now it seems like I've grown fond of him despite that."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "맞아, 나도 처음엔 부장님 때문에 힘들었는데, 이제는 그 특유의 엄격함이 이해가 되더라고.",
+                "utter": "Yeah, I had a hard time with him at first too, but now I understand his strictness."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "특히 프로젝트 끝나고 나서 다 같이 회식할 때 보면 진짜 마음이 따뜻한 분이시더라.",
+                "utter": "Especially after we finish a project and have a team dinner, you can really see how kind-hearted he is."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "응, 그렇지. 오래 함께하다 보니까 정이 들 수밖에 없는 것 같아.",
+                "utter": "Yeah, exactly. Spending so much time together, it's hard not to grow attached."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:100000_conv:8",
+        "ko_situation": "요즘 임시 보호하던 강아지 입양 보냈는데, 정말 많이 보고 싶어.",
+        "situation": "I recently sent the dog I was fostering to its new home, and I miss it so much.",
+        "emotion": "jeong",
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "요즘 임시 보호하던 강아지 입양 보냈는데, 정말 많이 보고 싶어.",
+                "utter": "I recently sent the dog I was fostering to its new home, and I miss it so much."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "처음엔 그냥 잠시 맡아주는 거라 생각했는데, 정이 많이 들었나 봐.",
+                "utter": "At first, I thought it was just temporary care, but I guess you grew really attached."
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 매일 같이 산책하고 밥 주면서 정이 많이 들었어. 처음엔 말도 안 듣고 사고만 쳤는데, 이제는 그리워.",
+                "utter": "Yeah, taking it for walks every day and feeding it made me really attached. At first, it didn't listen and caused trouble, but now I really miss it."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "맞아, 그렇게 시간이 지나면서 미운 정 고운 정 다 들게 되지. 다음에 또 기회되면 임시 보호 해볼 생각 있어?",
+                "utter": "That's right, over time you end up with all kinds of feelings. Would you foster again if you had the chance?"
+            },
+            {
+                "utter_idx": 5,
+                "ko_utter": "응, 그래도 이번엔 더 마음 단단히 먹고 해야지. 그래도 그 강아지가 좋은 집으로 갔으니까 다행이야.",
+                "utter": "Yes, but next time I'll be more prepared emotionally. Still, I'm glad that the dog found a good home."
+            }
+        ]
+    },
+    {
+        "conv_id": "hit:100000_conv:26",
+        "ko_situation": "옛날에 자주 가던 분식집에 갔는데 아직도 사장님이 계셔. 그 떡볶이 맛은 변함없더라.",
+        "situation": "I went to a snack bar I used to frequent, and the owner is still there. The tteokbokki tastes just as good as ever.",
+        "emotion": "jeong",
+        "dialogue": [
+            {
+                "utter_idx": 1,
+                "ko_utter": "옛날에 자주 가던 분식집에 갔는데 아직도 사장님이 계셔. 그 떡볶이 맛은 변함없더라.",
+                "utter": "I went to a snack bar I used to frequent, and the owner is still there. The tteokbokki tastes just as good as ever."
+            },
+            {
+                "utter_idx": 2,
+                "ko_utter": "와, 그 분식집 아직도 있구나. 우리 그 떡볶이 진짜 좋아했잖아. 사장님도 잘 계셔?",
+                "utter": "Wow, that place is still around? We used to love their tteokbokki. Is the owner doing well?"
+            },
+            {
+                "utter_idx": 3,
+                "ko_utter": "응, 사장님도 우리 기억하시더라. 예전처럼 인심도 좋으셔서 서비스도 주셨어.",
+                "utter": "Yes, the owner even remembered us. They were just as generous as before, giving us some free extras."
+            },
+            {
+                "utter_idx": 4,
+                "ko_utter": "그런 가게는 진짜 정이 많이 들지. 우리 다음에 같이 가자. 옛날 생각도 나고 좋을 것 같아.",
+                "utter": "Places like that really hold a special place in your heart. Let's go together next time. It'll be nice to reminisce."
+            }
+        ]
+    }
+    
+]
